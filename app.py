@@ -61,14 +61,14 @@ if uploaded_file:
         st.write(basket.head())
 
         # Frequent Itemsets Mining
-        min_support = st.sidebar.slider("Minimum Support", 0.01, 0.5, 0.05)
+        min_support = st.sidebar.slider("Minimum Support", 0.01, 0.5, 0.03)
         frequent_itemsets = apriori(basket, min_support=min_support, use_colnames=True)
 
         if frequent_itemsets.empty:
             st.warning("No frequent itemsets found. Try lowering the minimum support threshold.")
         else:
             st.write("### Frequent Itemsets")
-            st.write(frequent_itemsets)
+            st.dataframe(frequent_itemsets, use_container_width=True)
 
             # Association Rules
             metric = st.sidebar.selectbox("Metric", ["lift", "confidence", "support"])
