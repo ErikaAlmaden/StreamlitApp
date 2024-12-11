@@ -1,0 +1,1001 @@
+Transaction_ID,Products,City,Customer_Name,Date
+1000000000,"['Jam', 'Oranges', 'Eggs', 'Rice', 'Tea']",Phoenix,Ivy,2024-12-09
+1000000001,"['Bread', 'Cheese', 'Yogurt']",Chicago,Eve,2024-12-13
+1000000002,"['Bananas', 'Water', 'Eggs', 'Soda']",New York,Bob,2024-12-15
+1000000003,"['Cookies', 'Eggs', 'Juice', 'Rice']",Houston,Hank,2024-12-06
+1000000004,"['Ice Cream', 'Butter']",New York,Alice,2024-12-23
+1000000005,"['Yogurt', 'Oranges', 'Tea']",Houston,Grace,2024-12-04
+1000000006,"['Cheese', 'Bananas', 'Yogurt']",Houston,Grace,2024-12-06
+1000000007,"['Yogurt', 'Butter', 'Cereal', 'Cheese']",Los Angeles,Eve,2024-12-18
+1000000008,"['Water', 'Soda', 'Tea']",New York,Bob,2024-12-27
+1000000009,"['Apples', 'Cookies', 'Oranges', 'Tea']",Los Angeles,Grace,2024-12-02
+1000000010,"['Juice', 'Yogurt']",New York,Eve,2024-12-16
+1000000011,"['Bananas', 'Soda', 'Eggs', 'Butter']",Phoenix,Ivy,2024-12-09
+1000000012,"['Jam', 'Coffee', 'Juice', 'Soda', 'Oranges']",Chicago,Hank,2024-12-05
+1000000013,"['Butter', 'Milk', 'Tea', 'Cheese', 'Coffee']",Los Angeles,Bob,2024-12-19
+1000000014,"['Chips', 'Butter', 'Water']",Chicago,Diana,2024-12-09
+1000000015,"['Bread', 'Milk', 'Bananas', 'Rice', 'Jam']",Houston,Diana,2024-12-16
+1000000016,"['Cheese', 'Chips']",Los Angeles,Eve,2024-12-05
+1000000017,"['Bananas', 'Yogurt', 'Tea', 'Jam']",Houston,Ivy,2024-12-04
+1000000018,"['Milk', 'Rice', 'Eggs', 'Pasta']",Los Angeles,Alice,2024-12-13
+1000000019,"['Tea', 'Bananas', 'Water']",Houston,Diana,2024-12-19
+1000000020,"['Rice', 'Milk', 'Ice Cream', 'Cereal']",Los Angeles,Frank,2024-12-24
+1000000021,"['Ice Cream', 'Cereal', 'Soda', 'Honey', 'Chips']",Chicago,Charlie,2024-12-18
+1000000022,"['Soda', 'Juice']",Chicago,Alice,2024-12-01
+1000000023,"['Cereal', 'Ice Cream', 'Coffee']",New York,Charlie,2024-12-17
+1000000024,"['Coffee', 'Bananas', 'Cheese', 'Chips', 'Bread']",Chicago,Hank,2024-12-09
+1000000025,"['Yogurt', 'Ice Cream', 'Honey', 'Cheese', 'Apples']",Chicago,Alice,2024-12-19
+1000000026,"['Jam', 'Bread', 'Yogurt', 'Cereal', 'Cheese']",Los Angeles,Hank,2024-12-02
+1000000027,"['Cereal', 'Soda', 'Milk', 'Juice']",Los Angeles,Alice,2024-12-27
+1000000028,"['Yogurt', 'Cheese', 'Bread', 'Soda', 'Butter']",Chicago,Hank,2024-12-20
+1000000029,"['Eggs', 'Yogurt', 'Butter', 'Oranges']",Chicago,Alice,2024-12-13
+1000000030,"['Coffee', 'Butter']",Houston,Charlie,2024-12-31
+1000000031,"['Tea', 'Oranges', 'Cheese', 'Yogurt']",Los Angeles,Grace,2024-12-24
+1000000032,"['Cheese', 'Honey', 'Tea', 'Ice Cream']",Los Angeles,Bob,2024-12-13
+1000000033,"['Honey', 'Cookies', 'Cereal']",Chicago,Alice,2024-12-13
+1000000034,"['Cereal', 'Oranges', 'Cheese', 'Pasta']",Phoenix,Bob,2024-12-26
+1000000035,"['Milk', 'Tea', 'Cheese']",Los Angeles,Charlie,2024-12-18
+1000000036,"['Butter', 'Milk', 'Coffee']",New York,Frank,2024-12-12
+1000000037,"['Coffee', 'Bananas']",Phoenix,Grace,2024-12-24
+1000000038,"['Ice Cream', 'Tea', 'Eggs', 'Milk']",Los Angeles,Frank,2024-12-08
+1000000039,"['Apples', 'Honey', 'Bread']",Phoenix,Hank,2024-12-20
+1000000040,"['Juice', 'Honey', 'Bananas', 'Apples']",New York,Alice,2024-12-27
+1000000041,"['Eggs', 'Oranges', 'Soda']",Chicago,Charlie,2024-12-10
+1000000042,"['Cheese', 'Rice', 'Tea', 'Yogurt']",Los Angeles,Eve,2024-12-24
+1000000043,"['Cookies', 'Juice']",Chicago,Grace,2024-12-09
+1000000044,"['Chips', 'Cookies', 'Apples', 'Oranges', 'Cereal']",Houston,Eve,2024-12-30
+1000000045,"['Tea', 'Coffee', 'Bananas', 'Honey']",Chicago,Jack,2024-12-08
+1000000046,"['Eggs', 'Water']",New York,Hank,2024-12-31
+1000000047,"['Honey', 'Oranges', 'Water', 'Apples', 'Ice Cream']",Chicago,Frank,2024-12-14
+1000000048,"['Rice', 'Jam', 'Honey']",Houston,Alice,2024-12-01
+1000000049,"['Eggs', 'Yogurt', 'Cheese', 'Water']",Phoenix,Jack,2024-12-02
+1000000050,"['Ice Cream', 'Milk', 'Bread', 'Cookies', 'Jam']",Phoenix,Diana,2024-12-11
+1000000051,"['Juice', 'Ice Cream', 'Honey', 'Rice', 'Milk']",Phoenix,Jack,2024-12-03
+1000000052,"['Cheese', 'Water', 'Juice', 'Oranges']",Los Angeles,Eve,2024-12-28
+1000000053,"['Butter', 'Ice Cream', 'Pasta']",Houston,Bob,2024-12-20
+1000000054,"['Water', 'Bread', 'Cheese', 'Milk', 'Tea']",Los Angeles,Diana,2024-12-11
+1000000055,"['Cereal', 'Milk', 'Juice']",Chicago,Ivy,2024-12-03
+1000000056,"['Soda', 'Oranges', 'Tea']",Phoenix,Ivy,2024-12-25
+1000000057,"['Eggs', 'Cookies', 'Butter', 'Soda', 'Water']",Houston,Grace,2024-12-29
+1000000058,"['Jam', 'Milk', 'Butter', 'Juice']",Houston,Eve,2024-12-02
+1000000059,"['Rice', 'Juice', 'Water']",Houston,Hank,2024-12-02
+1000000060,"['Cereal', 'Bread', 'Pasta', 'Butter']",Houston,Alice,2024-12-30
+1000000061,"['Oranges', 'Pasta']",Phoenix,Eve,2024-12-17
+1000000062,"['Jam', 'Eggs', 'Chips']",Chicago,Frank,2024-12-04
+1000000063,"['Water', 'Milk']",Chicago,Eve,2024-12-23
+1000000064,"['Yogurt', 'Milk', 'Tea']",Phoenix,Frank,2024-12-30
+1000000065,"['Bananas', 'Cereal', 'Cheese', 'Honey']",New York,Jack,2024-12-17
+1000000066,"['Jam', 'Cereal', 'Chips', 'Pasta', 'Eggs']",Los Angeles,Bob,2024-12-27
+1000000067,"['Butter', 'Ice Cream', 'Pasta', 'Jam']",Houston,Eve,2024-12-04
+1000000068,"['Milk', 'Pasta']",New York,Charlie,2024-12-02
+1000000069,"['Water', 'Chips']",Los Angeles,Hank,2024-12-14
+1000000070,"['Jam', 'Cookies', 'Oranges', 'Bananas']",Houston,Jack,2024-12-07
+1000000071,"['Cheese', 'Oranges', 'Rice', 'Jam', 'Ice Cream']",Chicago,Hank,2024-12-05
+1000000072,"['Yogurt', 'Cheese', 'Cereal', 'Juice', 'Pasta']",Houston,Alice,2024-12-30
+1000000073,"['Apples', 'Rice', 'Honey', 'Oranges', 'Tea']",Los Angeles,Grace,2024-12-18
+1000000074,"['Yogurt', 'Honey', 'Juice', 'Cereal', 'Ice Cream']",Los Angeles,Jack,2024-12-05
+1000000075,"['Cheese', 'Cereal', 'Bread', 'Juice', 'Ice Cream']",Los Angeles,Charlie,2024-12-19
+1000000076,"['Chips', 'Cereal', 'Coffee', 'Butter', 'Cookies']",New York,Hank,2024-12-16
+1000000077,"['Jam', 'Chips', 'Butter']",Chicago,Bob,2024-12-05
+1000000078,"['Honey', 'Cookies', 'Pasta', 'Yogurt']",Chicago,Frank,2024-12-14
+1000000079,"['Apples', 'Cereal', 'Chips', 'Bread']",Los Angeles,Grace,2024-12-03
+1000000080,"['Bread', 'Juice']",Phoenix,Bob,2024-12-25
+1000000081,"['Cereal', 'Coffee', 'Milk']",Houston,Eve,2024-12-25
+1000000082,"['Ice Cream', 'Coffee']",Phoenix,Charlie,2024-12-17
+1000000083,"['Apples', 'Juice', 'Bananas', 'Coffee']",Phoenix,Bob,2024-12-06
+1000000084,"['Cereal', 'Chips', 'Coffee', 'Juice', 'Pasta']",Phoenix,Eve,2024-12-21
+1000000085,"['Ice Cream', 'Honey', 'Oranges', 'Yogurt', 'Tea']",Los Angeles,Alice,2024-12-05
+1000000086,"['Water', 'Cookies', 'Rice', 'Bread']",New York,Jack,2024-12-02
+1000000087,"['Juice', 'Yogurt', 'Soda']",Phoenix,Diana,2024-12-18
+1000000088,"['Butter', 'Jam', 'Cheese']",Chicago,Ivy,2024-12-17
+1000000089,"['Ice Cream', 'Juice', 'Honey', 'Milk', 'Jam']",Phoenix,Hank,2024-12-12
+1000000090,"['Cereal', 'Jam', 'Soda', 'Oranges']",New York,Grace,2024-12-10
+1000000091,"['Rice', 'Pasta', 'Coffee']",Houston,Hank,2024-12-05
+1000000092,"['Chips', 'Water', 'Ice Cream', 'Yogurt', 'Bread']",Chicago,Bob,2024-12-07
+1000000093,"['Apples', 'Milk', 'Bananas', 'Cheese']",Chicago,Eve,2024-12-11
+1000000094,"['Rice', 'Milk', 'Cookies']",Chicago,Frank,2024-12-01
+1000000095,"['Apples', 'Soda']",Chicago,Ivy,2024-12-01
+1000000096,"['Bananas', 'Chips', 'Rice', 'Yogurt']",Chicago,Frank,2024-12-24
+1000000097,"['Bananas', 'Jam', 'Eggs', 'Ice Cream']",New York,Frank,2024-12-01
+1000000098,"['Bread', 'Water']",Houston,Jack,2024-12-25
+1000000099,"['Juice', 'Tea', 'Apples', 'Pasta', 'Cheese']",Houston,Diana,2024-12-08
+1000000100,"['Milk', 'Juice', 'Cookies', 'Butter', 'Bread']",Los Angeles,Jack,2024-12-21
+1000000101,"['Oranges', 'Rice']",Los Angeles,Jack,2024-12-30
+1000000102,"['Butter', 'Rice', 'Juice']",Chicago,Eve,2024-12-01
+1000000103,"['Water', 'Cheese', 'Juice', 'Cereal', 'Bananas']",Chicago,Charlie,2024-12-24
+1000000104,"['Eggs', 'Ice Cream', 'Bread', 'Yogurt']",Chicago,Bob,2024-12-08
+1000000105,"['Oranges', 'Juice', 'Apples', 'Coffee', 'Rice']",Los Angeles,Bob,2024-12-25
+1000000106,"['Cheese', 'Bananas', 'Eggs', 'Coffee']",Los Angeles,Hank,2024-12-11
+1000000107,"['Bananas', 'Chips']",Phoenix,Bob,2024-12-14
+1000000108,"['Pasta', 'Rice', 'Ice Cream', 'Coffee']",Phoenix,Jack,2024-12-04
+1000000109,"['Bananas', 'Jam', 'Ice Cream', 'Eggs']",New York,Diana,2024-12-26
+1000000110,"['Butter', 'Bread', 'Oranges', 'Water']",Houston,Hank,2024-12-12
+1000000111,"['Ice Cream', 'Rice', 'Juice']",Los Angeles,Eve,2024-12-09
+1000000112,"['Eggs', 'Ice Cream']",New York,Diana,2024-12-15
+1000000113,"['Honey', 'Oranges', 'Soda']",Houston,Diana,2024-12-27
+1000000114,"['Honey', 'Eggs', 'Oranges', 'Cookies', 'Chips']",Phoenix,Charlie,2024-12-08
+1000000115,"['Eggs', 'Tea', 'Milk', 'Pasta', 'Jam']",New York,Hank,2024-12-26
+1000000116,"['Soda', 'Juice', 'Oranges']",Chicago,Grace,2024-12-28
+1000000117,"['Tea', 'Rice', 'Milk']",Chicago,Diana,2024-12-26
+1000000118,"['Coffee', 'Honey', 'Water', 'Pasta', 'Rice']",New York,Alice,2024-12-30
+1000000119,"['Juice', 'Yogurt', 'Oranges', 'Bananas', 'Cookies']",Houston,Alice,2024-12-30
+1000000120,"['Jam', 'Butter']",Houston,Alice,2024-12-14
+1000000121,"['Pasta', 'Tea']",Chicago,Ivy,2024-12-06
+1000000122,"['Jam', 'Oranges', 'Milk']",Los Angeles,Eve,2024-12-22
+1000000123,"['Soda', 'Bananas', 'Butter']",New York,Grace,2024-12-18
+1000000124,"['Jam', 'Yogurt', 'Cheese', 'Juice']",Chicago,Eve,2024-12-19
+1000000125,"['Cheese', 'Eggs', 'Cookies', 'Ice Cream', 'Tea']",New York,Charlie,2024-12-23
+1000000126,"['Honey', 'Eggs']",New York,Eve,2024-12-23
+1000000127,"['Cereal', 'Water', 'Bananas', 'Chips', 'Milk']",Houston,Diana,2024-12-24
+1000000128,"['Pasta', 'Jam', 'Cereal', 'Cookies', 'Rice']",New York,Grace,2024-12-28
+1000000129,"['Pasta', 'Coffee', 'Bananas', 'Eggs', 'Bread']",Phoenix,Ivy,2024-12-30
+1000000130,"['Coffee', 'Cereal']",Chicago,Eve,2024-12-31
+1000000131,"['Cereal', 'Chips']",Phoenix,Grace,2024-12-24
+1000000132,"['Rice', 'Juice', 'Water', 'Eggs', 'Bananas']",Phoenix,Bob,2024-12-11
+1000000133,"['Bananas', 'Eggs']",Houston,Bob,2024-12-31
+1000000134,"['Honey', 'Ice Cream', 'Pasta']",Houston,Frank,2024-12-01
+1000000135,"['Cookies', 'Juice']",Phoenix,Eve,2024-12-10
+1000000136,"['Chips', 'Juice']",Los Angeles,Alice,2024-12-16
+1000000137,"['Chips', 'Water', 'Oranges', 'Cookies', 'Honey']",Los Angeles,Ivy,2024-12-14
+1000000138,"['Pasta', 'Butter', 'Cereal', 'Ice Cream', 'Chips']",Chicago,Frank,2024-12-25
+1000000139,"['Pasta', 'Milk', 'Ice Cream']",New York,Diana,2024-12-12
+1000000140,"['Eggs', 'Oranges', 'Juice', 'Jam', 'Butter']",Houston,Charlie,2024-12-14
+1000000141,"['Juice', 'Butter', 'Yogurt']",Chicago,Jack,2024-12-12
+1000000142,"['Bananas', 'Bread', 'Rice', 'Eggs', 'Milk']",Los Angeles,Jack,2024-12-15
+1000000143,"['Milk', 'Cheese', 'Pasta', 'Cookies', 'Chips']",Chicago,Hank,2024-12-14
+1000000144,"['Butter', 'Yogurt', 'Cheese', 'Coffee', 'Tea']",Houston,Frank,2024-12-21
+1000000145,"['Butter', 'Bananas']",New York,Frank,2024-12-16
+1000000146,"['Bread', 'Cheese', 'Cereal', 'Oranges']",Los Angeles,Frank,2024-12-28
+1000000147,"['Jam', 'Milk', 'Cheese', 'Juice', 'Eggs']",New York,Diana,2024-12-05
+1000000148,"['Rice', 'Cheese']",Los Angeles,Alice,2024-12-14
+1000000149,"['Eggs', 'Water', 'Milk', 'Bananas', 'Rice']",Phoenix,Alice,2024-12-04
+1000000150,"['Rice', 'Oranges', 'Cheese', 'Milk', 'Eggs']",Phoenix,Diana,2024-12-03
+1000000151,"['Oranges', 'Bananas', 'Cheese', 'Honey']",Phoenix,Ivy,2024-12-08
+1000000152,"['Jam', 'Coffee']",Phoenix,Diana,2024-12-17
+1000000153,"['Soda', 'Rice', 'Apples', 'Butter']",Phoenix,Frank,2024-12-09
+1000000154,"['Rice', 'Pasta']",Houston,Eve,2024-12-10
+1000000155,"['Chips', 'Oranges', 'Cheese', 'Pasta', 'Juice']",Chicago,Alice,2024-12-26
+1000000156,"['Milk', 'Bread']",New York,Jack,2024-12-29
+1000000157,"['Bread', 'Honey']",New York,Alice,2024-12-15
+1000000158,"['Soda', 'Butter', 'Oranges', 'Eggs']",Phoenix,Grace,2024-12-10
+1000000159,"['Coffee', 'Jam']",Chicago,Hank,2024-12-01
+1000000160,"['Cereal', 'Water']",Los Angeles,Frank,2024-12-27
+1000000161,"['Butter', 'Milk']",Houston,Bob,2024-12-04
+1000000162,"['Cheese', 'Rice', 'Juice']",New York,Jack,2024-12-09
+1000000163,"['Cereal', 'Eggs']",Phoenix,Ivy,2024-12-25
+1000000164,"['Cheese', 'Eggs', 'Cereal', 'Pasta', 'Apples']",Houston,Charlie,2024-12-13
+1000000165,"['Soda', 'Cheese']",Los Angeles,Charlie,2024-12-14
+1000000166,"['Rice', 'Cheese', 'Milk']",Chicago,Bob,2024-12-18
+1000000167,"['Coffee', 'Honey', 'Bananas']",Phoenix,Charlie,2024-12-03
+1000000168,"['Oranges', 'Apples', 'Milk', 'Cookies']",New York,Charlie,2024-12-12
+1000000169,"['Eggs', 'Apples', 'Chips', 'Tea']",Chicago,Jack,2024-12-20
+1000000170,"['Ice Cream', 'Juice']",Phoenix,Grace,2024-12-24
+1000000171,"['Coffee', 'Honey', 'Bread', 'Cookies', 'Chips']",Los Angeles,Jack,2024-12-30
+1000000172,"['Ice Cream', 'Juice']",New York,Ivy,2024-12-02
+1000000173,"['Chips', 'Water']",Phoenix,Charlie,2024-12-19
+1000000174,"['Coffee', 'Honey', 'Chips']",Houston,Hank,2024-12-21
+1000000175,"['Honey', 'Bread', 'Pasta', 'Eggs']",Los Angeles,Charlie,2024-12-14
+1000000176,"['Juice', 'Butter']",Phoenix,Eve,2024-12-17
+1000000177,"['Cereal', 'Tea', 'Eggs']",Houston,Ivy,2024-12-18
+1000000178,"['Cereal', 'Water', 'Eggs', 'Butter']",Phoenix,Frank,2024-12-13
+1000000179,"['Pasta', 'Milk']",Houston,Charlie,2024-12-06
+1000000180,"['Rice', 'Cheese', 'Yogurt', 'Butter', 'Oranges']",Los Angeles,Jack,2024-12-30
+1000000181,"['Ice Cream', 'Cheese', 'Butter']",Los Angeles,Diana,2024-12-11
+1000000182,"['Bananas', 'Cheese', 'Yogurt', 'Soda']",Chicago,Ivy,2024-12-13
+1000000183,"['Bread', 'Cheese', 'Butter', 'Jam', 'Milk']",Houston,Ivy,2024-12-11
+1000000184,"['Tea', 'Eggs']",Los Angeles,Charlie,2024-12-13
+1000000185,"['Chips', 'Tea']",Phoenix,Eve,2024-12-04
+1000000186,"['Oranges', 'Coffee', 'Chips']",Phoenix,Hank,2024-12-10
+1000000187,"['Bananas', 'Milk', 'Oranges', 'Apples']",Phoenix,Bob,2024-12-04
+1000000188,"['Soda', 'Oranges', 'Butter', 'Bread', 'Bananas']",New York,Frank,2024-12-16
+1000000189,"['Bananas', 'Tea']",Chicago,Jack,2024-12-05
+1000000190,"['Water', 'Jam', 'Bananas', 'Cheese']",Houston,Grace,2024-12-03
+1000000191,"['Bananas', 'Pasta']",Chicago,Diana,2024-12-21
+1000000192,"['Water', 'Chips', 'Butter']",Phoenix,Hank,2024-12-16
+1000000193,"['Milk', 'Water', 'Butter']",Los Angeles,Charlie,2024-12-27
+1000000194,"['Chips', 'Cheese', 'Soda']",New York,Eve,2024-12-23
+1000000195,"['Jam', 'Ice Cream', 'Tea', 'Coffee', 'Water']",Phoenix,Charlie,2024-12-31
+1000000196,"['Cookies', 'Cereal', 'Tea']",Los Angeles,Hank,2024-12-03
+1000000197,"['Yogurt', 'Chips']",Chicago,Frank,2024-12-31
+1000000198,"['Coffee', 'Jam']",Houston,Charlie,2024-12-30
+1000000199,"['Rice', 'Bread', 'Pasta']",Chicago,Frank,2024-12-31
+1000000200,"['Juice', 'Tea', 'Ice Cream', 'Oranges', 'Yogurt']",Chicago,Grace,2024-12-27
+1000000201,"['Cereal', 'Ice Cream', 'Apples']",Houston,Hank,2024-12-16
+1000000202,"['Oranges', 'Pasta', 'Rice', 'Tea', 'Milk']",Houston,Eve,2024-12-05
+1000000203,"['Cereal', 'Eggs', 'Yogurt', 'Tea', 'Water']",Houston,Hank,2024-12-05
+1000000204,"['Milk', 'Soda', 'Ice Cream', 'Tea', 'Coffee']",Phoenix,Grace,2024-12-16
+1000000205,"['Coffee', 'Honey', 'Chips']",Phoenix,Diana,2024-12-20
+1000000206,"['Pasta', 'Water']",Los Angeles,Ivy,2024-12-30
+1000000207,"['Juice', 'Yogurt']",Houston,Jack,2024-12-07
+1000000208,"['Butter', 'Juice', 'Cheese', 'Bananas']",Phoenix,Grace,2024-12-11
+1000000209,"['Pasta', 'Bread']",Houston,Diana,2024-12-06
+1000000210,"['Milk', 'Eggs', 'Coffee']",Los Angeles,Ivy,2024-12-24
+1000000211,"['Bananas', 'Eggs']",Chicago,Frank,2024-12-19
+1000000212,"['Jam', 'Water', 'Cereal']",Phoenix,Eve,2024-12-06
+1000000213,"['Eggs', 'Pasta', 'Bananas', 'Bread']",Houston,Grace,2024-12-25
+1000000214,"['Butter', 'Pasta', 'Milk', 'Oranges', 'Soda']",Chicago,Bob,2024-12-30
+1000000215,"['Juice', 'Butter', 'Water']",New York,Hank,2024-12-27
+1000000216,"['Yogurt', 'Milk']",New York,Jack,2024-12-29
+1000000217,"['Milk', 'Honey']",Phoenix,Frank,2024-12-30
+1000000218,"['Oranges', 'Soda']",Phoenix,Charlie,2024-12-17
+1000000219,"['Eggs', 'Apples', 'Rice']",Chicago,Ivy,2024-12-13
+1000000220,"['Ice Cream', 'Water', 'Bread', 'Milk']",Chicago,Jack,2024-12-29
+1000000221,"['Tea', 'Bananas', 'Cookies']",Chicago,Alice,2024-12-04
+1000000222,"['Tea', 'Cheese']",Houston,Hank,2024-12-07
+1000000223,"['Honey', 'Cheese', 'Butter', 'Bread', 'Bananas']",Chicago,Diana,2024-12-26
+1000000224,"['Chips', 'Milk', 'Yogurt', 'Ice Cream']",Los Angeles,Grace,2024-12-24
+1000000225,"['Soda', 'Juice']",Houston,Frank,2024-12-16
+1000000226,"['Cereal', 'Bread', 'Cookies']",New York,Eve,2024-12-16
+1000000227,"['Cookies', 'Tea', 'Yogurt']",Chicago,Bob,2024-12-15
+1000000228,"['Soda', 'Cereal', 'Cheese', 'Bread', 'Juice']",Chicago,Jack,2024-12-25
+1000000229,"['Oranges', 'Juice', 'Eggs', 'Cheese']",New York,Ivy,2024-12-01
+1000000230,"['Rice', 'Cereal', 'Juice', 'Soda']",Chicago,Grace,2024-12-29
+1000000231,"['Ice Cream', 'Yogurt', 'Cheese', 'Coffee']",New York,Bob,2024-12-21
+1000000232,"['Tea', 'Cereal']",New York,Alice,2024-12-11
+1000000233,"['Bananas', 'Apples', 'Bread', 'Water']",Los Angeles,Diana,2024-12-02
+1000000234,"['Soda', 'Yogurt', 'Bananas']",Chicago,Grace,2024-12-10
+1000000235,"['Coffee', 'Jam', 'Soda']",Chicago,Bob,2024-12-29
+1000000236,"['Cheese', 'Ice Cream', 'Bread', 'Milk']",Los Angeles,Bob,2024-12-01
+1000000237,"['Oranges', 'Soda']",Houston,Alice,2024-12-09
+1000000238,"['Bread', 'Juice', 'Cereal', 'Water']",Phoenix,Grace,2024-12-08
+1000000239,"['Chips', 'Pasta', 'Coffee', 'Rice', 'Yogurt']",Houston,Ivy,2024-12-27
+1000000240,"['Tea', 'Ice Cream']",New York,Jack,2024-12-29
+1000000241,"['Ice Cream', 'Cheese', 'Pasta', 'Tea']",Los Angeles,Ivy,2024-12-13
+1000000242,"['Soda', 'Butter', 'Juice', 'Bananas']",Houston,Grace,2024-12-15
+1000000243,"['Yogurt', 'Oranges', 'Ice Cream', 'Honey', 'Cookies']",Chicago,Charlie,2024-12-31
+1000000244,"['Bananas', 'Honey', 'Cookies', 'Apples', 'Water']",New York,Eve,2024-12-04
+1000000245,"['Cereal', 'Water', 'Yogurt', 'Milk']",Houston,Grace,2024-12-08
+1000000246,"['Yogurt', 'Coffee', 'Ice Cream', 'Juice', 'Cookies']",Chicago,Eve,2024-12-13
+1000000247,"['Chips', 'Honey', 'Apples', 'Bananas']",New York,Hank,2024-12-25
+1000000248,"['Ice Cream', 'Eggs']",New York,Frank,2024-12-27
+1000000249,"['Butter', 'Jam', 'Soda', 'Oranges', 'Cheese']",Chicago,Alice,2024-12-12
+1000000250,"['Coffee', 'Bread', 'Cereal', 'Oranges', 'Ice Cream']",New York,Hank,2024-12-19
+1000000251,"['Bread', 'Juice', 'Chips']",Chicago,Grace,2024-12-25
+1000000252,"['Yogurt', 'Eggs', 'Chips', 'Jam', 'Tea']",Chicago,Jack,2024-12-13
+1000000253,"['Rice', 'Pasta', 'Honey', 'Bananas', 'Eggs']",Houston,Diana,2024-12-13
+1000000254,"['Juice', 'Yogurt']",New York,Jack,2024-12-22
+1000000255,"['Honey', 'Bread', 'Chips']",New York,Bob,2024-12-27
+1000000256,"['Pasta', 'Eggs', 'Tea', 'Ice Cream']",Chicago,Alice,2024-12-09
+1000000257,"['Honey', 'Cereal']",Phoenix,Jack,2024-12-21
+1000000258,"['Milk', 'Cereal', 'Rice', 'Butter']",Los Angeles,Jack,2024-12-19
+1000000259,"['Coffee', 'Oranges', 'Butter']",New York,Alice,2024-12-21
+1000000260,"['Butter', 'Pasta', 'Rice', 'Soda']",New York,Charlie,2024-12-14
+1000000261,"['Oranges', 'Butter', 'Cereal']",Phoenix,Jack,2024-12-06
+1000000262,"['Juice', 'Bread', 'Honey']",Los Angeles,Hank,2024-12-22
+1000000263,"['Milk', 'Soda', 'Oranges']",New York,Diana,2024-12-16
+1000000264,"['Apples', 'Pasta', 'Cereal', 'Water', 'Jam']",Phoenix,Eve,2024-12-24
+1000000265,"['Coffee', 'Cereal', 'Juice', 'Butter', 'Milk']",Phoenix,Bob,2024-12-15
+1000000266,"['Butter', 'Oranges']",Los Angeles,Charlie,2024-12-28
+1000000267,"['Milk', 'Ice Cream', 'Rice', 'Juice']",Chicago,Bob,2024-12-23
+1000000268,"['Yogurt', 'Rice']",Houston,Ivy,2024-12-21
+1000000269,"['Chips', 'Eggs', 'Honey', 'Milk']",Los Angeles,Grace,2024-12-13
+1000000270,"['Soda', 'Apples', 'Honey', 'Jam']",Los Angeles,Alice,2024-12-31
+1000000271,"['Coffee', 'Yogurt']",Houston,Eve,2024-12-30
+1000000272,"['Cookies', 'Honey']",Phoenix,Ivy,2024-12-19
+1000000273,"['Jam', 'Tea', 'Yogurt']",Los Angeles,Charlie,2024-12-05
+1000000274,"['Jam', 'Butter', 'Juice']",Chicago,Jack,2024-12-27
+1000000275,"['Coffee', 'Tea', 'Eggs', 'Cookies', 'Cheese']",Chicago,Grace,2024-12-25
+1000000276,"['Honey', 'Coffee', 'Tea', 'Cereal', 'Chips']",Houston,Grace,2024-12-24
+1000000277,"['Milk', 'Chips', 'Rice', 'Jam']",Los Angeles,Diana,2024-12-29
+1000000278,"['Cookies', 'Eggs', 'Cereal', 'Tea']",Los Angeles,Charlie,2024-12-13
+1000000279,"['Chips', 'Apples', 'Soda']",Chicago,Jack,2024-12-12
+1000000280,"['Oranges', 'Cereal', 'Soda', 'Bread']",Los Angeles,Diana,2024-12-14
+1000000281,"['Butter', 'Rice', 'Tea', 'Milk']",Phoenix,Frank,2024-12-31
+1000000282,"['Yogurt', 'Cookies']",Houston,Hank,2024-12-15
+1000000283,"['Cereal', 'Soda']",Houston,Grace,2024-12-23
+1000000284,"['Ice Cream', 'Jam', 'Eggs', 'Apples', 'Juice']",Phoenix,Diana,2024-12-17
+1000000285,"['Tea', 'Coffee', 'Cheese', 'Chips', 'Ice Cream']",Chicago,Diana,2024-12-19
+1000000286,"['Rice', 'Pasta', 'Bananas']",New York,Eve,2024-12-10
+1000000287,"['Chips', 'Pasta', 'Water', 'Butter', 'Rice']",Phoenix,Charlie,2024-12-07
+1000000288,"['Soda', 'Coffee', 'Tea', 'Cookies']",Phoenix,Frank,2024-12-07
+1000000289,"['Coffee', 'Pasta', 'Tea', 'Honey', 'Cereal']",New York,Frank,2024-12-30
+1000000290,"['Water', 'Tea', 'Milk']",New York,Hank,2024-12-29
+1000000291,"['Eggs', 'Coffee', 'Pasta', 'Water']",Chicago,Alice,2024-12-28
+1000000292,"['Cereal', 'Juice', 'Bread', 'Rice']",New York,Diana,2024-12-23
+1000000293,"['Apples', 'Juice', 'Bread']",Los Angeles,Grace,2024-12-31
+1000000294,"['Cheese', 'Cereal', 'Water', 'Soda', 'Bread']",Chicago,Charlie,2024-12-17
+1000000295,"['Apples', 'Rice', 'Soda', 'Oranges']",Phoenix,Jack,2024-12-08
+1000000296,"['Chips', 'Juice']",New York,Grace,2024-12-30
+1000000297,"['Chips', 'Yogurt', 'Bananas']",Phoenix,Hank,2024-12-21
+1000000298,"['Yogurt', 'Cheese', 'Milk']",Chicago,Alice,2024-12-07
+1000000299,"['Jam', 'Chips', 'Coffee', 'Pasta']",Phoenix,Charlie,2024-12-30
+1000000300,"['Oranges', 'Eggs']",Houston,Ivy,2024-12-29
+1000000301,"['Oranges', 'Water', 'Cereal']",Houston,Alice,2024-12-17
+1000000302,"['Jam', 'Coffee', 'Tea']",Los Angeles,Eve,2024-12-14
+1000000303,"['Apples', 'Ice Cream']",Los Angeles,Jack,2024-12-06
+1000000304,"['Juice', 'Tea', 'Bread', 'Butter']",New York,Frank,2024-12-04
+1000000305,"['Jam', 'Ice Cream', 'Juice', 'Chips']",Chicago,Hank,2024-12-06
+1000000306,"['Apples', 'Chips', 'Eggs']",Houston,Bob,2024-12-01
+1000000307,"['Soda', 'Bread', 'Milk']",Phoenix,Grace,2024-12-18
+1000000308,"['Pasta', 'Coffee', 'Eggs']",Houston,Grace,2024-12-19
+1000000309,"['Apples', 'Bread', 'Coffee', 'Rice', 'Honey']",Houston,Grace,2024-12-02
+1000000310,"['Tea', 'Jam', 'Bananas', 'Pasta', 'Juice']",Los Angeles,Frank,2024-12-12
+1000000311,"['Rice', 'Butter', 'Milk', 'Chips']",Los Angeles,Jack,2024-12-22
+1000000312,"['Pasta', 'Bananas', 'Cereal']",Phoenix,Jack,2024-12-18
+1000000313,"['Oranges', 'Soda', 'Juice', 'Bananas', 'Pasta']",Los Angeles,Jack,2024-12-17
+1000000314,"['Pasta', 'Butter', 'Cookies', 'Coffee']",Los Angeles,Grace,2024-12-29
+1000000315,"['Butter', 'Bananas']",Houston,Diana,2024-12-15
+1000000316,"['Pasta', 'Honey', 'Rice']",Chicago,Eve,2024-12-09
+1000000317,"['Coffee', 'Cookies', 'Yogurt', 'Chips']",Chicago,Grace,2024-12-09
+1000000318,"['Bread', 'Eggs', 'Soda']",Chicago,Alice,2024-12-12
+1000000319,"['Jam', 'Eggs', 'Butter']",Los Angeles,Frank,2024-12-26
+1000000320,"['Eggs', 'Bananas', 'Soda', 'Coffee', 'Ice Cream']",Los Angeles,Alice,2024-12-12
+1000000321,"['Honey', 'Juice', 'Soda', 'Ice Cream', 'Tea']",Chicago,Frank,2024-12-14
+1000000322,"['Honey', 'Rice', 'Yogurt']",Los Angeles,Bob,2024-12-03
+1000000323,"['Juice', 'Cereal', 'Bananas']",Los Angeles,Diana,2024-12-20
+1000000324,"['Jam', 'Coffee', 'Eggs', 'Pasta', 'Yogurt']",Chicago,Grace,2024-12-09
+1000000325,"['Cheese', 'Butter', 'Ice Cream', 'Soda']",Chicago,Ivy,2024-12-22
+1000000326,"['Eggs', 'Water', 'Apples', 'Jam', 'Butter']",Chicago,Eve,2024-12-16
+1000000327,"['Cookies', 'Eggs']",New York,Ivy,2024-12-24
+1000000328,"['Yogurt', 'Eggs']",Phoenix,Jack,2024-12-15
+1000000329,"['Cookies', 'Rice', 'Coffee', 'Juice', 'Oranges']",Los Angeles,Ivy,2024-12-24
+1000000330,"['Chips', 'Milk', 'Jam', 'Cheese', 'Ice Cream']",Chicago,Ivy,2024-12-25
+1000000331,"['Milk', 'Water', 'Bread', 'Jam', 'Cookies']",Chicago,Bob,2024-12-27
+1000000332,"['Bread', 'Water', 'Chips']",Phoenix,Charlie,2024-12-19
+1000000333,"['Bananas', 'Honey', 'Yogurt', 'Eggs', 'Jam']",Chicago,Hank,2024-12-22
+1000000334,"['Tea', 'Oranges', 'Butter', 'Cheese']",Phoenix,Eve,2024-12-19
+1000000335,"['Cheese', 'Ice Cream']",Phoenix,Frank,2024-12-15
+1000000336,"['Pasta', 'Apples', 'Cereal']",New York,Bob,2024-12-01
+1000000337,"['Eggs', 'Milk', 'Honey', 'Water', 'Chips']",New York,Charlie,2024-12-09
+1000000338,"['Chips', 'Cookies', 'Milk', 'Bananas', 'Bread']",New York,Frank,2024-12-20
+1000000339,"['Pasta', 'Oranges', 'Bread', 'Yogurt']",Los Angeles,Diana,2024-12-29
+1000000340,"['Pasta', 'Bread', 'Butter', 'Cookies', 'Bananas']",Chicago,Grace,2024-12-04
+1000000341,"['Oranges', 'Coffee', 'Cheese', 'Cereal']",Chicago,Alice,2024-12-09
+1000000342,"['Cookies', 'Cheese', 'Soda', 'Juice']",Chicago,Bob,2024-12-11
+1000000343,"['Rice', 'Oranges']",Houston,Bob,2024-12-25
+1000000344,"['Honey', 'Jam', 'Chips', 'Cookies']",Houston,Hank,2024-12-17
+1000000345,"['Jam', 'Yogurt', 'Honey', 'Chips', 'Pasta']",Chicago,Eve,2024-12-30
+1000000346,"['Honey', 'Pasta', 'Ice Cream', 'Bread', 'Yogurt']",Houston,Grace,2024-12-17
+1000000347,"['Water', 'Apples', 'Cheese', 'Rice', 'Oranges']",New York,Jack,2024-12-05
+1000000348,"['Milk', 'Jam']",New York,Hank,2024-12-06
+1000000349,"['Milk', 'Pasta', 'Jam', 'Honey', 'Cereal']",Houston,Eve,2024-12-25
+1000000350,"['Cookies', 'Pasta', 'Jam']",Phoenix,Alice,2024-12-04
+1000000351,"['Milk', 'Tea', 'Water', 'Oranges']",Houston,Diana,2024-12-30
+1000000352,"['Honey', 'Rice', 'Eggs', 'Tea', 'Coffee']",Chicago,Bob,2024-12-18
+1000000353,"['Soda', 'Apples', 'Ice Cream']",Houston,Bob,2024-12-08
+1000000354,"['Cereal', 'Cookies', 'Bananas', 'Honey']",Phoenix,Eve,2024-12-17
+1000000355,"['Cereal', 'Oranges']",Phoenix,Eve,2024-12-04
+1000000356,"['Oranges', 'Coffee', 'Ice Cream', 'Soda', 'Bananas']",Los Angeles,Eve,2024-12-03
+1000000357,"['Pasta', 'Butter']",New York,Charlie,2024-12-07
+1000000358,"['Chips', 'Pasta']",Phoenix,Frank,2024-12-01
+1000000359,"['Pasta', 'Butter', 'Eggs']",Houston,Frank,2024-12-01
+1000000360,"['Ice Cream', 'Juice', 'Water']",New York,Jack,2024-12-12
+1000000361,"['Yogurt', 'Bananas', 'Chips']",New York,Ivy,2024-12-13
+1000000362,"['Apples', 'Cookies', 'Soda', 'Butter']",Los Angeles,Bob,2024-12-26
+1000000363,"['Apples', 'Bananas']",Phoenix,Ivy,2024-12-08
+1000000364,"['Bread', 'Juice', 'Milk', 'Apples', 'Cereal']",Chicago,Alice,2024-12-30
+1000000365,"['Chips', 'Cereal', 'Oranges', 'Tea']",Chicago,Charlie,2024-12-07
+1000000366,"['Bananas', 'Soda', 'Eggs', 'Apples', 'Butter']",Los Angeles,Bob,2024-12-04
+1000000367,"['Yogurt', 'Juice', 'Oranges', 'Cheese']",Phoenix,Alice,2024-12-15
+1000000368,"['Cookies', 'Bananas']",New York,Frank,2024-12-25
+1000000369,"['Juice', 'Bread']",Phoenix,Alice,2024-12-02
+1000000370,"['Cheese', 'Eggs', 'Jam', 'Ice Cream']",Los Angeles,Jack,2024-12-07
+1000000371,"['Cereal', 'Eggs', 'Tea']",Houston,Hank,2024-12-14
+1000000372,"['Tea', 'Honey', 'Bananas', 'Cookies', 'Soda']",Phoenix,Charlie,2024-12-22
+1000000373,"['Cereal', 'Butter']",Phoenix,Charlie,2024-12-13
+1000000374,"['Eggs', 'Ice Cream', 'Tea']",Chicago,Grace,2024-12-25
+1000000375,"['Eggs', 'Cookies', 'Jam', 'Butter', 'Honey']",New York,Alice,2024-12-04
+1000000376,"['Tea', 'Eggs', 'Soda']",New York,Eve,2024-12-03
+1000000377,"['Cheese', 'Cookies', 'Butter']",Phoenix,Hank,2024-12-27
+1000000378,"['Soda', 'Bread', 'Honey']",Houston,Alice,2024-12-09
+1000000379,"['Water', 'Yogurt']",Chicago,Jack,2024-12-21
+1000000380,"['Rice', 'Bread', 'Cheese', 'Apples', 'Pasta']",New York,Grace,2024-12-28
+1000000381,"['Ice Cream', 'Cereal', 'Bananas']",Los Angeles,Alice,2024-12-13
+1000000382,"['Pasta', 'Oranges', 'Yogurt']",Los Angeles,Charlie,2024-12-05
+1000000383,"['Cereal', 'Tea', 'Milk', 'Juice']",Houston,Ivy,2024-12-12
+1000000384,"['Water', 'Oranges', 'Chips']",Phoenix,Diana,2024-12-13
+1000000385,"['Cereal', 'Milk', 'Jam']",Chicago,Grace,2024-12-28
+1000000386,"['Juice', 'Apples', 'Water', 'Eggs', 'Honey']",Los Angeles,Ivy,2024-12-12
+1000000387,"['Cheese', 'Honey', 'Yogurt', 'Ice Cream', 'Bananas']",Chicago,Alice,2024-12-11
+1000000388,"['Cheese', 'Rice', 'Bread', 'Coffee', 'Pasta']",New York,Jack,2024-12-16
+1000000389,"['Water', 'Juice', 'Jam', 'Honey', 'Bread']",Chicago,Ivy,2024-12-08
+1000000390,"['Cookies', 'Bread', 'Ice Cream', 'Soda']",Los Angeles,Eve,2024-12-06
+1000000391,"['Soda', 'Butter', 'Cereal', 'Apples']",Phoenix,Grace,2024-12-29
+1000000392,"['Coffee', 'Cereal', 'Honey', 'Rice']",Phoenix,Alice,2024-12-12
+1000000393,"['Pasta', 'Water', 'Milk']",Phoenix,Diana,2024-12-19
+1000000394,"['Yogurt', 'Pasta', 'Oranges', 'Water']",Chicago,Ivy,2024-12-20
+1000000395,"['Soda', 'Jam', 'Coffee']",Houston,Alice,2024-12-03
+1000000396,"['Apples', 'Jam', 'Juice', 'Eggs']",Chicago,Grace,2024-12-01
+1000000397,"['Water', 'Cheese', 'Rice']",New York,Eve,2024-12-17
+1000000398,"['Chips', 'Bananas', 'Cereal', 'Water']",Chicago,Alice,2024-12-20
+1000000399,"['Bread', 'Milk', 'Juice']",Los Angeles,Hank,2024-12-01
+1000000400,"['Chips', 'Coffee']",New York,Alice,2024-12-29
+1000000401,"['Yogurt', 'Milk']",Los Angeles,Bob,2024-12-02
+1000000402,"['Juice', 'Bananas', 'Cookies', 'Ice Cream']",Los Angeles,Jack,2024-12-11
+1000000403,"['Water', 'Cheese', 'Apples']",Houston,Ivy,2024-12-18
+1000000404,"['Bananas', 'Bread', 'Cereal', 'Soda', 'Juice']",Houston,Charlie,2024-12-26
+1000000405,"['Cereal', 'Jam', 'Water', 'Oranges', 'Butter']",Los Angeles,Hank,2024-12-20
+1000000406,"['Chips', 'Eggs', 'Yogurt']",Houston,Bob,2024-12-29
+1000000407,"['Cookies', 'Soda']",Houston,Frank,2024-12-04
+1000000408,"['Milk', 'Butter']",Chicago,Ivy,2024-12-24
+1000000409,"['Pasta', 'Eggs', 'Cookies', 'Water', 'Oranges']",Houston,Ivy,2024-12-12
+1000000410,"['Ice Cream', 'Cheese']",Los Angeles,Charlie,2024-12-23
+1000000411,"['Cookies', 'Bread', 'Milk', 'Oranges']",Los Angeles,Jack,2024-12-10
+1000000412,"['Cheese', 'Bananas']",Los Angeles,Alice,2024-12-19
+1000000413,"['Juice', 'Bread']",New York,Diana,2024-12-25
+1000000414,"['Bread', 'Apples', 'Cheese']",New York,Ivy,2024-12-13
+1000000415,"['Water', 'Eggs', 'Milk', 'Bread', 'Tea']",Phoenix,Alice,2024-12-29
+1000000416,"['Cereal', 'Juice']",Chicago,Bob,2024-12-13
+1000000417,"['Butter', 'Cereal', 'Juice', 'Milk', 'Coffee']",Houston,Eve,2024-12-04
+1000000418,"['Rice', 'Jam', 'Apples', 'Tea', 'Coffee']",Chicago,Diana,2024-12-16
+1000000419,"['Apples', 'Soda', 'Pasta', 'Water', 'Cookies']",Chicago,Grace,2024-12-12
+1000000420,"['Chips', 'Pasta', 'Eggs']",New York,Grace,2024-12-31
+1000000421,"['Apples', 'Cereal', 'Tea']",Phoenix,Bob,2024-12-20
+1000000422,"['Juice', 'Chips', 'Cereal', 'Cheese', 'Yogurt']",Phoenix,Bob,2024-12-07
+1000000423,"['Pasta', 'Eggs']",Houston,Charlie,2024-12-20
+1000000424,"['Cheese', 'Bananas', 'Soda']",New York,Hank,2024-12-07
+1000000425,"['Cheese', 'Milk']",Los Angeles,Ivy,2024-12-04
+1000000426,"['Cookies', 'Bread', 'Jam']",Houston,Frank,2024-12-26
+1000000427,"['Yogurt', 'Cookies', 'Milk', 'Soda']",Phoenix,Alice,2024-12-10
+1000000428,"['Chips', 'Butter', 'Cheese']",Phoenix,Bob,2024-12-12
+1000000429,"['Coffee', 'Milk']",Chicago,Bob,2024-12-25
+1000000430,"['Oranges', 'Milk']",Chicago,Grace,2024-12-07
+1000000431,"['Rice', 'Eggs']",Chicago,Frank,2024-12-31
+1000000432,"['Chips', 'Coffee']",Houston,Alice,2024-12-10
+1000000433,"['Ice Cream', 'Apples', 'Juice', 'Chips', 'Water']",New York,Ivy,2024-12-12
+1000000434,"['Juice', 'Cereal', 'Eggs', 'Tea']",Chicago,Diana,2024-12-05
+1000000435,"['Chips', 'Coffee', 'Rice', 'Eggs']",Phoenix,Frank,2024-12-30
+1000000436,"['Coffee', 'Tea', 'Rice', 'Soda']",New York,Alice,2024-12-17
+1000000437,"['Yogurt', 'Eggs', 'Oranges']",Los Angeles,Frank,2024-12-04
+1000000438,"['Bread', 'Cookies', 'Chips', 'Coffee', 'Bananas']",New York,Frank,2024-12-24
+1000000439,"['Bread', 'Cereal']",Phoenix,Jack,2024-12-03
+1000000440,"['Juice', 'Butter', 'Milk', 'Oranges', 'Honey']",Chicago,Diana,2024-12-21
+1000000441,"['Pasta', 'Water', 'Bananas', 'Honey']",Houston,Charlie,2024-12-09
+1000000442,"['Eggs', 'Rice', 'Ice Cream', 'Chips', 'Bread']",Chicago,Grace,2024-12-13
+1000000443,"['Coffee', 'Cheese', 'Yogurt', 'Milk', 'Soda']",Phoenix,Jack,2024-12-11
+1000000444,"['Pasta', 'Water', 'Jam', 'Cookies', 'Eggs']",Phoenix,Diana,2024-12-01
+1000000445,"['Rice', 'Apples', 'Cookies', 'Ice Cream', 'Pasta']",Houston,Charlie,2024-12-01
+1000000446,"['Jam', 'Ice Cream']",Chicago,Bob,2024-12-27
+1000000447,"['Soda', 'Honey', 'Bananas', 'Oranges']",Houston,Grace,2024-12-16
+1000000448,"['Bananas', 'Cheese', 'Honey', 'Rice', 'Ice Cream']",Phoenix,Diana,2024-12-02
+1000000449,"['Bananas', 'Yogurt', 'Water']",New York,Grace,2024-12-22
+1000000450,"['Ice Cream', 'Honey', 'Jam']",Houston,Ivy,2024-12-30
+1000000451,"['Eggs', 'Soda', 'Bananas', 'Butter']",New York,Eve,2024-12-09
+1000000452,"['Bread', 'Butter', 'Bananas', 'Coffee']",New York,Diana,2024-12-06
+1000000453,"['Soda', 'Water', 'Pasta', 'Yogurt', 'Chips']",Chicago,Alice,2024-12-13
+1000000454,"['Cookies', 'Oranges', 'Cereal', 'Juice']",Phoenix,Charlie,2024-12-23
+1000000455,"['Chips', 'Water', 'Eggs']",Chicago,Frank,2024-12-17
+1000000456,"['Cereal', 'Ice Cream', 'Bananas', 'Bread']",New York,Grace,2024-12-14
+1000000457,"['Jam', 'Bananas', 'Cheese', 'Honey']",Houston,Eve,2024-12-22
+1000000458,"['Eggs', 'Water', 'Cheese', 'Juice', 'Cereal']",Houston,Charlie,2024-12-28
+1000000459,"['Butter', 'Apples']",Houston,Frank,2024-12-12
+1000000460,"['Yogurt', 'Cheese']",Phoenix,Ivy,2024-12-11
+1000000461,"['Water', 'Honey', 'Tea']",Houston,Hank,2024-12-19
+1000000462,"['Jam', 'Honey']",Houston,Jack,2024-12-03
+1000000463,"['Milk', 'Honey']",Chicago,Hank,2024-12-26
+1000000464,"['Eggs', 'Chips', 'Cereal', 'Oranges']",Phoenix,Frank,2024-12-19
+1000000465,"['Oranges', 'Bananas', 'Cheese', 'Coffee', 'Apples']",New York,Alice,2024-12-29
+1000000466,"['Cheese', 'Coffee', 'Cereal', 'Tea', 'Ice Cream']",Phoenix,Hank,2024-12-06
+1000000467,"['Rice', 'Yogurt', 'Cereal']",Houston,Bob,2024-12-04
+1000000468,"['Honey', 'Pasta', 'Chips']",Houston,Ivy,2024-12-06
+1000000469,"['Butter', 'Apples', 'Yogurt', 'Water', 'Oranges']",New York,Eve,2024-12-03
+1000000470,"['Bread', 'Juice']",Los Angeles,Frank,2024-12-25
+1000000471,"['Yogurt', 'Pasta', 'Soda']",Houston,Jack,2024-12-27
+1000000472,"['Coffee', 'Milk', 'Ice Cream', 'Honey', 'Cookies']",Los Angeles,Hank,2024-12-16
+1000000473,"['Cheese', 'Chips']",Los Angeles,Charlie,2024-12-02
+1000000474,"['Eggs', 'Rice', 'Chips']",Houston,Ivy,2024-12-14
+1000000475,"['Ice Cream', 'Soda', 'Eggs', 'Bread', 'Water']",Houston,Alice,2024-12-30
+1000000476,"['Rice', 'Chips', 'Pasta', 'Cereal', 'Bread']",Los Angeles,Charlie,2024-12-21
+1000000477,"['Rice', 'Oranges', 'Juice']",Chicago,Diana,2024-12-30
+1000000478,"['Tea', 'Butter', 'Coffee', 'Jam', 'Rice']",Phoenix,Alice,2024-12-13
+1000000479,"['Tea', 'Soda', 'Cookies', 'Rice']",Houston,Frank,2024-12-31
+1000000480,"['Cereal', 'Coffee', 'Water', 'Chips']",Chicago,Jack,2024-12-23
+1000000481,"['Pasta', 'Water', 'Oranges', 'Rice']",Chicago,Grace,2024-12-31
+1000000482,"['Honey', 'Bread', 'Soda', 'Cereal', 'Butter']",Los Angeles,Diana,2024-12-25
+1000000483,"['Juice', 'Milk', 'Cereal', 'Yogurt']",Houston,Ivy,2024-12-25
+1000000484,"['Honey', 'Yogurt', 'Rice', 'Apples', 'Jam']",Chicago,Charlie,2024-12-15
+1000000485,"['Chips', 'Oranges', 'Eggs']",Chicago,Bob,2024-12-31
+1000000486,"['Water', 'Milk', 'Yogurt', 'Juice', 'Butter']",Chicago,Frank,2024-12-08
+1000000487,"['Milk', 'Oranges', 'Butter']",New York,Ivy,2024-12-03
+1000000488,"['Cookies', 'Water', 'Bread', 'Cereal', 'Honey']",New York,Jack,2024-12-01
+1000000489,"['Coffee', 'Cheese', 'Water']",Houston,Alice,2024-12-15
+1000000490,"['Honey', 'Rice', 'Juice', 'Jam', 'Yogurt']",Los Angeles,Frank,2024-12-11
+1000000491,"['Bananas', 'Cheese']",New York,Bob,2024-12-24
+1000000492,"['Pasta', 'Yogurt', 'Oranges']",Chicago,Hank,2024-12-03
+1000000493,"['Yogurt', 'Honey', 'Cheese']",Los Angeles,Charlie,2024-12-13
+1000000494,"['Water', 'Milk']",New York,Bob,2024-12-14
+1000000495,"['Bananas', 'Rice', 'Jam', 'Pasta', 'Honey']",Chicago,Grace,2024-12-31
+1000000496,"['Pasta', 'Jam', 'Soda', 'Milk', 'Water']",Chicago,Diana,2024-12-30
+1000000497,"['Water', 'Soda']",Houston,Frank,2024-12-31
+1000000498,"['Coffee', 'Cheese', 'Apples', 'Rice', 'Water']",Chicago,Jack,2024-12-14
+1000000499,"['Juice', 'Chips', 'Ice Cream']",Chicago,Grace,2024-12-05
+1000000500,"['Yogurt', 'Milk', 'Soda']",Los Angeles,Grace,2024-12-30
+1000000501,"['Ice Cream', 'Juice', 'Water', 'Bananas']",Los Angeles,Grace,2024-12-02
+1000000502,"['Oranges', 'Cheese', 'Rice', 'Ice Cream']",Houston,Jack,2024-12-26
+1000000503,"['Juice', 'Apples', 'Honey', 'Soda', 'Ice Cream']",Chicago,Ivy,2024-12-15
+1000000504,"['Tea', 'Cookies', 'Ice Cream', 'Soda', 'Apples']",Chicago,Charlie,2024-12-01
+1000000505,"['Yogurt', 'Bananas', 'Bread', 'Coffee', 'Butter']",New York,Diana,2024-12-07
+1000000506,"['Rice', 'Bananas', 'Jam', 'Eggs', 'Water']",New York,Alice,2024-12-05
+1000000507,"['Cheese', 'Butter']",Phoenix,Jack,2024-12-12
+1000000508,"['Honey', 'Oranges', 'Jam']",Chicago,Frank,2024-12-01
+1000000509,"['Water', 'Soda']",Los Angeles,Frank,2024-12-25
+1000000510,"['Yogurt', 'Bananas']",Phoenix,Ivy,2024-12-01
+1000000511,"['Butter', 'Pasta', 'Water']",New York,Ivy,2024-12-24
+1000000512,"['Chips', 'Cheese', 'Cereal', 'Bread', 'Tea']",Houston,Jack,2024-12-09
+1000000513,"['Apples', 'Water', 'Honey', 'Rice', 'Cookies']",Phoenix,Jack,2024-12-28
+1000000514,"['Bread', 'Cereal', 'Cheese', 'Apples']",Phoenix,Alice,2024-12-16
+1000000515,"['Water', 'Apples']",Houston,Diana,2024-12-09
+1000000516,"['Soda', 'Cheese']",Chicago,Bob,2024-12-21
+1000000517,"['Tea', 'Eggs', 'Cereal', 'Bananas', 'Yogurt']",Chicago,Bob,2024-12-16
+1000000518,"['Ice Cream', 'Pasta', 'Juice']",Houston,Hank,2024-12-19
+1000000519,"['Juice', 'Cereal']",Houston,Jack,2024-12-07
+1000000520,"['Tea', 'Bananas']",Los Angeles,Frank,2024-12-06
+1000000521,"['Oranges', 'Eggs', 'Tea', 'Water', 'Bananas']",Los Angeles,Charlie,2024-12-07
+1000000522,"['Cereal', 'Soda', 'Oranges']",Los Angeles,Frank,2024-12-03
+1000000523,"['Milk', 'Soda', 'Cereal']",Houston,Bob,2024-12-12
+1000000524,"['Tea', 'Eggs', 'Coffee', 'Cookies']",Chicago,Eve,2024-12-15
+1000000525,"['Jam', 'Juice', 'Water', 'Cheese']",Houston,Alice,2024-12-11
+1000000526,"['Soda', 'Water', 'Milk', 'Ice Cream']",Phoenix,Diana,2024-12-29
+1000000527,"['Jam', 'Tea']",Phoenix,Grace,2024-12-30
+1000000528,"['Eggs', 'Soda', 'Cereal']",New York,Grace,2024-12-13
+1000000529,"['Soda', 'Cereal']",Chicago,Eve,2024-12-10
+1000000530,"['Yogurt', 'Cheese', 'Ice Cream', 'Jam']",Los Angeles,Jack,2024-12-26
+1000000531,"['Cheese', 'Soda', 'Tea', 'Rice', 'Jam']",Houston,Charlie,2024-12-07
+1000000532,"['Tea', 'Water', 'Bananas', 'Ice Cream']",New York,Jack,2024-12-09
+1000000533,"['Chips', 'Bananas', 'Butter']",Houston,Bob,2024-12-23
+1000000534,"['Soda', 'Bread']",Los Angeles,Bob,2024-12-11
+1000000535,"['Ice Cream', 'Bread']",Houston,Alice,2024-12-17
+1000000536,"['Juice', 'Cheese', 'Oranges', 'Yogurt', 'Rice']",New York,Diana,2024-12-19
+1000000537,"['Tea', 'Bread']",Houston,Diana,2024-12-08
+1000000538,"['Cereal', 'Soda']",Phoenix,Alice,2024-12-30
+1000000539,"['Chips', 'Milk', 'Bread', 'Bananas', 'Rice']",Los Angeles,Eve,2024-12-12
+1000000540,"['Ice Cream', 'Apples', 'Cookies', 'Cereal', 'Rice']",New York,Frank,2024-12-06
+1000000541,"['Oranges', 'Rice', 'Soda', 'Cookies']",New York,Ivy,2024-12-27
+1000000542,"['Rice', 'Coffee', 'Soda', 'Cookies']",Phoenix,Diana,2024-12-26
+1000000543,"['Soda', 'Coffee', 'Bread', 'Bananas']",Phoenix,Bob,2024-12-16
+1000000544,"['Oranges', 'Jam', 'Apples', 'Honey']",Los Angeles,Grace,2024-12-30
+1000000545,"['Bananas', 'Apples']",Phoenix,Frank,2024-12-03
+1000000546,"['Rice', 'Pasta']",Chicago,Ivy,2024-12-29
+1000000547,"['Juice', 'Honey', 'Apples', 'Cereal', 'Rice']",New York,Frank,2024-12-14
+1000000548,"['Chips', 'Pasta', 'Oranges']",Chicago,Frank,2024-12-14
+1000000549,"['Ice Cream', 'Eggs']",Los Angeles,Bob,2024-12-04
+1000000550,"['Pasta', 'Cookies', 'Cereal', 'Soda']",Los Angeles,Bob,2024-12-23
+1000000551,"['Water', 'Eggs', 'Juice']",Phoenix,Bob,2024-12-17
+1000000552,"['Soda', 'Cheese']",Chicago,Charlie,2024-12-11
+1000000553,"['Cookies', 'Coffee']",Los Angeles,Grace,2024-12-01
+1000000554,"['Tea', 'Eggs']",Houston,Bob,2024-12-27
+1000000555,"['Jam', 'Cookies', 'Cheese']",Phoenix,Hank,2024-12-28
+1000000556,"['Butter', 'Ice Cream', 'Coffee', 'Bread']",Los Angeles,Frank,2024-12-17
+1000000557,"['Bread', 'Ice Cream', 'Soda', 'Cookies']",Houston,Grace,2024-12-08
+1000000558,"['Eggs', 'Cereal', 'Bananas', 'Cheese']",Phoenix,Frank,2024-12-29
+1000000559,"['Juice', 'Ice Cream', 'Honey', 'Bananas']",Los Angeles,Diana,2024-12-09
+1000000560,"['Water', 'Honey']",New York,Grace,2024-12-23
+1000000561,"['Oranges', 'Water']",Los Angeles,Charlie,2024-12-13
+1000000562,"['Milk', 'Juice']",Los Angeles,Frank,2024-12-02
+1000000563,"['Eggs', 'Pasta', 'Water']",Los Angeles,Alice,2024-12-23
+1000000564,"['Juice', 'Cookies', 'Oranges']",Los Angeles,Bob,2024-12-07
+1000000565,"['Cheese', 'Tea', 'Bananas', 'Honey']",Phoenix,Eve,2024-12-14
+1000000566,"['Chips', 'Cheese', 'Coffee', 'Bananas', 'Jam']",Houston,Hank,2024-12-15
+1000000567,"['Chips', 'Ice Cream']",Los Angeles,Alice,2024-12-11
+1000000568,"['Eggs', 'Cookies', 'Soda', 'Rice', 'Water']",New York,Jack,2024-12-13
+1000000569,"['Eggs', 'Bananas', 'Bread', 'Soda']",Phoenix,Jack,2024-12-08
+1000000570,"['Tea', 'Juice', 'Yogurt', 'Cereal', 'Water']",Houston,Ivy,2024-12-23
+1000000571,"['Oranges', 'Milk']",Los Angeles,Alice,2024-12-30
+1000000572,"['Apples', 'Bananas', 'Milk', 'Ice Cream', 'Tea']",New York,Grace,2024-12-19
+1000000573,"['Apples', 'Jam', 'Coffee', 'Tea', 'Juice']",Phoenix,Alice,2024-12-28
+1000000574,"['Ice Cream', 'Milk', 'Jam']",Los Angeles,Alice,2024-12-04
+1000000575,"['Yogurt', 'Pasta', 'Oranges', 'Butter']",Phoenix,Ivy,2024-12-13
+1000000576,"['Water', 'Yogurt', 'Oranges', 'Soda', 'Pasta']",Los Angeles,Bob,2024-12-23
+1000000577,"['Cereal', 'Pasta']",New York,Ivy,2024-12-26
+1000000578,"['Eggs', 'Cookies']",Los Angeles,Charlie,2024-12-04
+1000000579,"['Chips', 'Tea', 'Yogurt']",Los Angeles,Eve,2024-12-14
+1000000580,"['Rice', 'Bananas', 'Cookies', 'Yogurt', 'Jam']",Phoenix,Diana,2024-12-31
+1000000581,"['Milk', 'Eggs', 'Bananas', 'Soda', 'Chips']",Chicago,Charlie,2024-12-04
+1000000582,"['Coffee', 'Pasta', 'Oranges', 'Eggs', 'Yogurt']",Phoenix,Eve,2024-12-05
+1000000583,"['Yogurt', 'Eggs', 'Chips', 'Apples', 'Cookies']",Chicago,Ivy,2024-12-23
+1000000584,"['Honey', 'Cookies', 'Bread', 'Tea']",Houston,Frank,2024-12-04
+1000000585,"['Eggs', 'Coffee']",Phoenix,Jack,2024-12-11
+1000000586,"['Honey', 'Jam', 'Chips', 'Butter']",Chicago,Alice,2024-12-26
+1000000587,"['Cookies', 'Yogurt', 'Eggs', 'Pasta', 'Tea']",Chicago,Frank,2024-12-21
+1000000588,"['Oranges', 'Ice Cream', 'Rice']",New York,Hank,2024-12-21
+1000000589,"['Coffee', 'Cheese', 'Honey']",Los Angeles,Alice,2024-12-19
+1000000590,"['Cereal', 'Bananas', 'Apples']",Chicago,Charlie,2024-12-01
+1000000591,"['Eggs', 'Tea']",Chicago,Alice,2024-12-22
+1000000592,"['Cheese', 'Bananas', 'Coffee']",Houston,Frank,2024-12-23
+1000000593,"['Juice', 'Chips', 'Cookies', 'Cheese']",Phoenix,Diana,2024-12-05
+1000000594,"['Soda', 'Yogurt', 'Eggs', 'Water']",Phoenix,Charlie,2024-12-12
+1000000595,"['Oranges', 'Yogurt', 'Cereal', 'Bananas']",Phoenix,Jack,2024-12-25
+1000000596,"['Yogurt', 'Water']",Phoenix,Diana,2024-12-02
+1000000597,"['Cereal', 'Soda', 'Apples']",Houston,Charlie,2024-12-24
+1000000598,"['Pasta', 'Yogurt']",Houston,Bob,2024-12-13
+1000000599,"['Coffee', 'Water', 'Yogurt', 'Milk', 'Cookies']",Chicago,Jack,2024-12-21
+1000000600,"['Cookies', 'Oranges']",Los Angeles,Charlie,2024-12-02
+1000000601,"['Butter', 'Rice', 'Coffee', 'Cheese', 'Pasta']",Los Angeles,Jack,2024-12-29
+1000000602,"['Eggs', 'Chips', 'Honey', 'Yogurt', 'Rice']",New York,Hank,2024-12-03
+1000000603,"['Cereal', 'Milk', 'Water', 'Cheese']",Houston,Frank,2024-12-16
+1000000604,"['Jam', 'Bananas', 'Bread', 'Apples', 'Honey']",Chicago,Frank,2024-12-05
+1000000605,"['Juice', 'Milk']",Los Angeles,Bob,2024-12-24
+1000000606,"['Bread', 'Milk']",New York,Bob,2024-12-01
+1000000607,"['Cookies', 'Honey', 'Eggs', 'Yogurt', 'Butter']",Phoenix,Diana,2024-12-20
+1000000608,"['Yogurt', 'Cereal', 'Rice', 'Bread']",Chicago,Ivy,2024-12-12
+1000000609,"['Chips', 'Honey', 'Milk', 'Oranges']",Phoenix,Bob,2024-12-05
+1000000610,"['Juice', 'Tea']",Phoenix,Ivy,2024-12-22
+1000000611,"['Water', 'Bread', 'Chips', 'Eggs', 'Butter']",Chicago,Ivy,2024-12-30
+1000000612,"['Water', 'Bread', 'Coffee']",Los Angeles,Grace,2024-12-20
+1000000613,"['Cookies', 'Apples', 'Soda']",Houston,Eve,2024-12-22
+1000000614,"['Apples', 'Bread', 'Butter', 'Cereal']",Los Angeles,Jack,2024-12-11
+1000000615,"['Honey', 'Soda', 'Oranges', 'Jam']",Los Angeles,Ivy,2024-12-22
+1000000616,"['Oranges', 'Pasta', 'Chips']",New York,Jack,2024-12-13
+1000000617,"['Cheese', 'Bread']",New York,Frank,2024-12-29
+1000000618,"['Yogurt', 'Bananas']",New York,Hank,2024-12-15
+1000000619,"['Cereal', 'Cookies']",Houston,Ivy,2024-12-21
+1000000620,"['Butter', 'Bananas', 'Chips', 'Soda', 'Juice']",Chicago,Bob,2024-12-23
+1000000621,"['Milk', 'Bread', 'Chips', 'Oranges']",Phoenix,Jack,2024-12-27
+1000000622,"['Chips', 'Ice Cream', 'Apples', 'Honey', 'Butter']",New York,Jack,2024-12-28
+1000000623,"['Chips', 'Yogurt', 'Honey']",Chicago,Jack,2024-12-06
+1000000624,"['Apples', 'Ice Cream']",Chicago,Jack,2024-12-06
+1000000625,"['Jam', 'Cheese', 'Milk']",New York,Ivy,2024-12-13
+1000000626,"['Pasta', 'Oranges', 'Bread']",Los Angeles,Eve,2024-12-24
+1000000627,"['Pasta', 'Rice', 'Eggs', 'Cookies', 'Coffee']",Los Angeles,Ivy,2024-12-18
+1000000628,"['Water', 'Apples', 'Butter', 'Cookies']",Houston,Hank,2024-12-15
+1000000629,"['Cheese', 'Pasta', 'Apples']",Chicago,Bob,2024-12-09
+1000000630,"['Jam', 'Pasta', 'Yogurt', 'Eggs', 'Cookies']",Los Angeles,Eve,2024-12-29
+1000000631,"['Bread', 'Cereal', 'Chips']",Chicago,Jack,2024-12-08
+1000000632,"['Yogurt', 'Apples', 'Oranges', 'Bread', 'Cookies']",Phoenix,Hank,2024-12-03
+1000000633,"['Apples', 'Cookies', 'Cheese', 'Tea', 'Water']",New York,Charlie,2024-12-14
+1000000634,"['Eggs', 'Pasta', 'Yogurt', 'Honey']",Houston,Hank,2024-12-16
+1000000635,"['Juice', 'Apples']",Houston,Hank,2024-12-03
+1000000636,"['Chips', 'Tea', 'Soda', 'Juice', 'Bananas']",Chicago,Eve,2024-12-29
+1000000637,"['Jam', 'Yogurt', 'Honey', 'Cereal']",Houston,Jack,2024-12-08
+1000000638,"['Water', 'Bananas', 'Pasta', 'Apples', 'Ice Cream']",Los Angeles,Hank,2024-12-29
+1000000639,"['Oranges', 'Honey']",Chicago,Charlie,2024-12-04
+1000000640,"['Soda', 'Bread', 'Jam']",Houston,Frank,2024-12-25
+1000000641,"['Bread', 'Water']",Chicago,Grace,2024-12-23
+1000000642,"['Bananas', 'Oranges', 'Cheese', 'Cereal', 'Honey']",Chicago,Alice,2024-12-26
+1000000643,"['Pasta', 'Bread']",Chicago,Frank,2024-12-16
+1000000644,"['Pasta', 'Butter']",Chicago,Charlie,2024-12-07
+1000000645,"['Pasta', 'Water', 'Jam', 'Cookies', 'Juice']",Houston,Eve,2024-12-01
+1000000646,"['Chips', 'Juice', 'Butter', 'Bananas']",Los Angeles,Ivy,2024-12-31
+1000000647,"['Tea', 'Rice', 'Coffee']",New York,Frank,2024-12-23
+1000000648,"['Ice Cream', 'Pasta', 'Cookies', 'Soda', 'Honey']",Phoenix,Grace,2024-12-19
+1000000649,"['Bread', 'Oranges', 'Chips', 'Juice']",Houston,Hank,2024-12-31
+1000000650,"['Bread', 'Apples']",Houston,Eve,2024-12-20
+1000000651,"['Yogurt', 'Ice Cream', 'Milk', 'Honey']",Chicago,Jack,2024-12-31
+1000000652,"['Honey', 'Chips', 'Soda', 'Yogurt', 'Cookies']",Phoenix,Jack,2024-12-22
+1000000653,"['Rice', 'Tea', 'Cheese', 'Water']",Los Angeles,Charlie,2024-12-05
+1000000654,"['Bread', 'Butter', 'Juice']",Phoenix,Alice,2024-12-18
+1000000655,"['Bread', 'Cereal']",Los Angeles,Grace,2024-12-22
+1000000656,"['Cereal', 'Bread', 'Tea']",Chicago,Charlie,2024-12-06
+1000000657,"['Bananas', 'Bread', 'Yogurt', 'Soda', 'Milk']",Chicago,Grace,2024-12-02
+1000000658,"['Cookies', 'Chips', 'Rice']",Houston,Jack,2024-12-27
+1000000659,"['Juice', 'Cereal']",Chicago,Ivy,2024-12-19
+1000000660,"['Oranges', 'Milk', 'Coffee', 'Bananas']",Chicago,Grace,2024-12-11
+1000000661,"['Honey', 'Jam', 'Soda', 'Tea', 'Cheese']",New York,Grace,2024-12-31
+1000000662,"['Bananas', 'Yogurt']",Chicago,Alice,2024-12-27
+1000000663,"['Jam', 'Bread']",Phoenix,Diana,2024-12-16
+1000000664,"['Juice', 'Jam', 'Yogurt']",Phoenix,Jack,2024-12-14
+1000000665,"['Coffee', 'Yogurt', 'Soda']",Chicago,Frank,2024-12-04
+1000000666,"['Juice', 'Eggs', 'Apples', 'Cereal']",Los Angeles,Eve,2024-12-23
+1000000667,"['Cookies', 'Rice', 'Honey']",Chicago,Eve,2024-12-22
+1000000668,"['Jam', 'Apples', 'Pasta']",New York,Grace,2024-12-14
+1000000669,"['Honey', 'Ice Cream', 'Rice', 'Bread']",Los Angeles,Hank,2024-12-02
+1000000670,"['Milk', 'Pasta']",New York,Eve,2024-12-05
+1000000671,"['Coffee', 'Milk', 'Butter']",Houston,Eve,2024-12-02
+1000000672,"['Chips', 'Honey']",New York,Charlie,2024-12-24
+1000000673,"['Cookies', 'Water', 'Oranges', 'Cereal']",Chicago,Grace,2024-12-12
+1000000674,"['Rice', 'Eggs']",New York,Jack,2024-12-22
+1000000675,"['Tea', 'Butter', 'Chips', 'Oranges']",Chicago,Hank,2024-12-12
+1000000676,"['Apples', 'Juice', 'Bananas']",New York,Bob,2024-12-09
+1000000677,"['Pasta', 'Chips', 'Apples', 'Honey', 'Coffee']",Los Angeles,Jack,2024-12-09
+1000000678,"['Oranges', 'Eggs', 'Rice', 'Apples']",Phoenix,Bob,2024-12-01
+1000000679,"['Jam', 'Milk', 'Ice Cream']",Phoenix,Charlie,2024-12-06
+1000000680,"['Butter', 'Tea', 'Ice Cream']",Houston,Bob,2024-12-09
+1000000681,"['Soda', 'Juice', 'Honey', 'Water', 'Cheese']",Chicago,Frank,2024-12-10
+1000000682,"['Rice', 'Juice', 'Soda', 'Ice Cream', 'Honey']",New York,Ivy,2024-12-06
+1000000683,"['Coffee', 'Apples', 'Cheese', 'Yogurt', 'Oranges']",Chicago,Ivy,2024-12-27
+1000000684,"['Pasta', 'Eggs', 'Yogurt']",Phoenix,Grace,2024-12-16
+1000000685,"['Chips', 'Yogurt', 'Juice', 'Oranges']",Chicago,Hank,2024-12-26
+1000000686,"['Chips', 'Eggs']",Los Angeles,Alice,2024-12-04
+1000000687,"['Eggs', 'Butter', 'Yogurt', 'Cookies']",Los Angeles,Diana,2024-12-10
+1000000688,"['Apples', 'Jam']",New York,Bob,2024-12-11
+1000000689,"['Pasta', 'Butter', 'Rice', 'Bananas']",Houston,Charlie,2024-12-01
+1000000690,"['Water', 'Cereal', 'Coffee', 'Chips', 'Juice']",Houston,Grace,2024-12-24
+1000000691,"['Cookies', 'Soda', 'Jam', 'Honey', 'Rice']",Phoenix,Diana,2024-12-25
+1000000692,"['Rice', 'Cereal', 'Apples']",Houston,Diana,2024-12-13
+1000000693,"['Milk', 'Coffee', 'Bread', 'Cheese']",New York,Grace,2024-12-05
+1000000694,"['Water', 'Bread', 'Rice', 'Butter', 'Bananas']",New York,Charlie,2024-12-27
+1000000695,"['Jam', 'Cereal', 'Tea', 'Chips']",Houston,Ivy,2024-12-09
+1000000696,"['Jam', 'Coffee']",Chicago,Bob,2024-12-03
+1000000697,"['Yogurt', 'Bread']",Chicago,Bob,2024-12-20
+1000000698,"['Bread', 'Pasta', 'Oranges']",Phoenix,Diana,2024-12-11
+1000000699,"['Cookies', 'Juice', 'Honey', 'Rice', 'Jam']",Houston,Diana,2024-12-29
+1000000700,"['Butter', 'Chips', 'Rice', 'Water']",Chicago,Ivy,2024-12-24
+1000000701,"['Cereal', 'Eggs']",Los Angeles,Hank,2024-12-02
+1000000702,"['Eggs', 'Apples', 'Soda']",Los Angeles,Frank,2024-12-27
+1000000703,"['Rice', 'Apples', 'Bananas', 'Cheese', 'Juice']",Chicago,Charlie,2024-12-08
+1000000704,"['Oranges', 'Bananas', 'Tea']",Houston,Grace,2024-12-16
+1000000705,"['Honey', 'Cookies', 'Chips']",Houston,Jack,2024-12-06
+1000000706,"['Cookies', 'Honey']",Phoenix,Jack,2024-12-30
+1000000707,"['Rice', 'Juice', 'Milk', 'Apples', 'Tea']",Los Angeles,Eve,2024-12-18
+1000000708,"['Bananas', 'Cookies', 'Rice']",Los Angeles,Hank,2024-12-21
+1000000709,"['Milk', 'Cheese', 'Coffee']",Chicago,Frank,2024-12-02
+1000000710,"['Butter', 'Ice Cream', 'Chips']",Los Angeles,Diana,2024-12-19
+1000000711,"['Bananas', 'Eggs', 'Butter']",Chicago,Diana,2024-12-20
+1000000712,"['Bread', 'Tea', 'Cereal', 'Eggs', 'Juice']",Houston,Bob,2024-12-18
+1000000713,"['Pasta', 'Juice', 'Jam', 'Chips', 'Water']",New York,Charlie,2024-12-19
+1000000714,"['Bananas', 'Pasta']",Los Angeles,Frank,2024-12-21
+1000000715,"['Cereal', 'Water', 'Bananas', 'Pasta', 'Butter']",New York,Hank,2024-12-15
+1000000716,"['Honey', 'Coffee', 'Butter', 'Ice Cream']",Phoenix,Hank,2024-12-12
+1000000717,"['Ice Cream', 'Soda', 'Cookies', 'Pasta']",New York,Hank,2024-12-05
+1000000718,"['Milk', 'Bread']",New York,Alice,2024-12-28
+1000000719,"['Butter', 'Chips']",Chicago,Bob,2024-12-10
+1000000720,"['Juice', 'Yogurt', 'Bananas']",Chicago,Charlie,2024-12-26
+1000000721,"['Butter', 'Coffee', 'Cheese', 'Juice', 'Yogurt']",Los Angeles,Eve,2024-12-11
+1000000722,"['Oranges', 'Milk', 'Rice', 'Jam']",Los Angeles,Frank,2024-12-13
+1000000723,"['Eggs', 'Yogurt', 'Oranges']",New York,Bob,2024-12-03
+1000000724,"['Cheese', 'Yogurt', 'Coffee', 'Chips']",Phoenix,Jack,2024-12-08
+1000000725,"['Ice Cream', 'Rice']",Los Angeles,Jack,2024-12-02
+1000000726,"['Pasta', 'Cereal', 'Eggs']",Los Angeles,Ivy,2024-12-13
+1000000727,"['Pasta', 'Ice Cream']",Phoenix,Hank,2024-12-07
+1000000728,"['Rice', 'Juice', 'Water', 'Soda']",Houston,Jack,2024-12-26
+1000000729,"['Butter', 'Honey', 'Bread', 'Cereal']",Houston,Eve,2024-12-10
+1000000730,"['Jam', 'Cookies', 'Bananas']",Chicago,Alice,2024-12-09
+1000000731,"['Honey', 'Oranges', 'Coffee']",Houston,Alice,2024-12-27
+1000000732,"['Apples', 'Bananas', 'Ice Cream']",Los Angeles,Eve,2024-12-05
+1000000733,"['Eggs', 'Cookies', 'Yogurt', 'Milk', 'Honey']",Phoenix,Jack,2024-12-05
+1000000734,"['Oranges', 'Pasta', 'Juice', 'Cereal']",Los Angeles,Grace,2024-12-20
+1000000735,"['Soda', 'Tea', 'Butter', 'Pasta']",Houston,Frank,2024-12-17
+1000000736,"['Butter', 'Pasta', 'Cheese', 'Cookies', 'Milk']",New York,Diana,2024-12-22
+1000000737,"['Butter', 'Soda', 'Apples', 'Cheese', 'Milk']",Chicago,Ivy,2024-12-21
+1000000738,"['Eggs', 'Cookies', 'Honey', 'Soda']",Houston,Hank,2024-12-25
+1000000739,"['Honey', 'Rice', 'Chips', 'Eggs']",Los Angeles,Diana,2024-12-22
+1000000740,"['Honey', 'Ice Cream']",Phoenix,Frank,2024-12-07
+1000000741,"['Water', 'Milk', 'Juice', 'Ice Cream', 'Soda']",New York,Ivy,2024-12-24
+1000000742,"['Honey', 'Oranges', 'Eggs', 'Bananas']",Phoenix,Jack,2024-12-15
+1000000743,"['Soda', 'Tea', 'Cereal', 'Pasta']",New York,Ivy,2024-12-19
+1000000744,"['Cookies', 'Pasta', 'Bread']",New York,Grace,2024-12-08
+1000000745,"['Ice Cream', 'Tea']",Houston,Hank,2024-12-30
+1000000746,"['Juice', 'Jam', 'Cookies', 'Butter', 'Bananas']",Houston,Diana,2024-12-07
+1000000747,"['Water', 'Coffee', 'Soda', 'Honey', 'Yogurt']",New York,Diana,2024-12-24
+1000000748,"['Cookies', 'Tea', 'Butter', 'Water', 'Eggs']",Chicago,Frank,2024-12-06
+1000000749,"['Yogurt', 'Chips', 'Rice', 'Soda']",Chicago,Eve,2024-12-27
+1000000750,"['Rice', 'Milk', 'Jam', 'Ice Cream']",Houston,Ivy,2024-12-25
+1000000751,"['Tea', 'Rice', 'Cookies', 'Honey']",Phoenix,Charlie,2024-12-12
+1000000752,"['Coffee', 'Yogurt', 'Apples', 'Chips']",Chicago,Diana,2024-12-04
+1000000753,"['Bread', 'Pasta', 'Ice Cream', 'Cereal']",Los Angeles,Eve,2024-12-08
+1000000754,"['Soda', 'Bananas', 'Honey', 'Yogurt', 'Butter']",New York,Charlie,2024-12-08
+1000000755,"['Butter', 'Oranges', 'Juice', 'Soda']",Chicago,Charlie,2024-12-04
+1000000756,"['Ice Cream', 'Rice']",Chicago,Eve,2024-12-24
+1000000757,"['Soda', 'Honey', 'Rice', 'Yogurt', 'Oranges']",Houston,Jack,2024-12-27
+1000000758,"['Pasta', 'Milk']",New York,Ivy,2024-12-25
+1000000759,"['Yogurt', 'Chips']",Houston,Ivy,2024-12-23
+1000000760,"['Chips', 'Pasta', 'Cheese', 'Cereal']",Phoenix,Grace,2024-12-03
+1000000761,"['Milk', 'Pasta']",Houston,Diana,2024-12-12
+1000000762,"['Yogurt', 'Cheese', 'Jam', 'Pasta']",Phoenix,Alice,2024-12-03
+1000000763,"['Yogurt', 'Juice']",Chicago,Hank,2024-12-03
+1000000764,"['Oranges', 'Honey']",New York,Charlie,2024-12-18
+1000000765,"['Honey', 'Rice']",Chicago,Bob,2024-12-20
+1000000766,"['Tea', 'Apples', 'Oranges']",Los Angeles,Grace,2024-12-21
+1000000767,"['Pasta', 'Butter', 'Honey', 'Bread', 'Juice']",Chicago,Diana,2024-12-21
+1000000768,"['Eggs', 'Ice Cream', 'Honey', 'Yogurt', 'Bananas']",Phoenix,Frank,2024-12-05
+1000000769,"['Milk', 'Cheese']",Los Angeles,Diana,2024-12-18
+1000000770,"['Jam', 'Pasta', 'Yogurt']",Houston,Grace,2024-12-09
+1000000771,"['Chips', 'Water', 'Soda', 'Yogurt']",Houston,Frank,2024-12-16
+1000000772,"['Soda', 'Tea', 'Water', 'Cereal']",Los Angeles,Diana,2024-12-24
+1000000773,"['Bananas', 'Yogurt', 'Rice', 'Cheese', 'Pasta']",Houston,Grace,2024-12-03
+1000000774,"['Rice', 'Apples']",Houston,Hank,2024-12-23
+1000000775,"['Bananas', 'Apples', 'Butter', 'Water', 'Pasta']",Phoenix,Hank,2024-12-16
+1000000776,"['Yogurt', 'Chips']",Chicago,Diana,2024-12-03
+1000000777,"['Bread', 'Coffee', 'Cereal', 'Water']",Phoenix,Ivy,2024-12-04
+1000000778,"['Milk', 'Pasta', 'Eggs', 'Rice', 'Oranges']",New York,Ivy,2024-12-31
+1000000779,"['Soda', 'Bread', 'Chips']",New York,Bob,2024-12-09
+1000000780,"['Rice', 'Chips', 'Oranges']",Chicago,Jack,2024-12-27
+1000000781,"['Eggs', 'Oranges', 'Milk', 'Cereal', 'Bread']",Houston,Hank,2024-12-26
+1000000782,"['Jam', 'Juice']",New York,Charlie,2024-12-04
+1000000783,"['Cookies', 'Eggs', 'Pasta', 'Coffee', 'Cereal']",Chicago,Grace,2024-12-03
+1000000784,"['Tea', 'Cookies', 'Oranges', 'Cereal']",Phoenix,Hank,2024-12-30
+1000000785,"['Tea', 'Bananas', 'Butter', 'Apples']",Chicago,Eve,2024-12-22
+1000000786,"['Ice Cream', 'Bananas', 'Water']",Houston,Hank,2024-12-25
+1000000787,"['Yogurt', 'Bread', 'Coffee', 'Chips', 'Water']",Los Angeles,Frank,2024-12-24
+1000000788,"['Cookies', 'Tea', 'Soda', 'Milk', 'Apples']",Los Angeles,Hank,2024-12-13
+1000000789,"['Butter', 'Cookies', 'Bread']",Houston,Diana,2024-12-15
+1000000790,"['Ice Cream', 'Apples']",Houston,Diana,2024-12-12
+1000000791,"['Bananas', 'Juice', 'Apples', 'Honey']",Houston,Bob,2024-12-29
+1000000792,"['Yogurt', 'Ice Cream', 'Water', 'Jam']",Houston,Diana,2024-12-30
+1000000793,"['Ice Cream', 'Jam']",Houston,Grace,2024-12-17
+1000000794,"['Rice', 'Eggs']",Houston,Alice,2024-12-19
+1000000795,"['Pasta', 'Milk', 'Juice', 'Yogurt', 'Rice']",Houston,Alice,2024-12-21
+1000000796,"['Rice', 'Yogurt', 'Coffee']",Houston,Alice,2024-12-10
+1000000797,"['Tea', 'Rice', 'Oranges']",Phoenix,Diana,2024-12-17
+1000000798,"['Cookies', 'Soda', 'Bread']",Phoenix,Jack,2024-12-14
+1000000799,"['Butter', 'Bread', 'Pasta']",Phoenix,Ivy,2024-12-22
+1000000800,"['Honey', 'Soda', 'Cereal']",Phoenix,Bob,2024-12-28
+1000000801,"['Yogurt', 'Eggs', 'Apples']",Chicago,Ivy,2024-12-08
+1000000802,"['Oranges', 'Yogurt']",Phoenix,Alice,2024-12-28
+1000000803,"['Butter', 'Bananas', 'Yogurt', 'Cookies']",New York,Diana,2024-12-26
+1000000804,"['Bananas', 'Ice Cream', 'Honey', 'Butter']",Phoenix,Hank,2024-12-15
+1000000805,"['Water', 'Tea', 'Jam']",Phoenix,Ivy,2024-12-24
+1000000806,"['Chips', 'Butter', 'Soda', 'Pasta', 'Eggs']",Chicago,Charlie,2024-12-11
+1000000807,"['Apples', 'Tea']",Los Angeles,Jack,2024-12-09
+1000000808,"['Rice', 'Soda']",New York,Alice,2024-12-17
+1000000809,"['Water', 'Honey', 'Cheese', 'Coffee', 'Tea']",Phoenix,Hank,2024-12-22
+1000000810,"['Cereal', 'Water', 'Honey', 'Butter']",Chicago,Ivy,2024-12-18
+1000000811,"['Butter', 'Cookies', 'Apples', 'Water', 'Cheese']",Phoenix,Hank,2024-12-09
+1000000812,"['Cookies', 'Eggs', 'Ice Cream', 'Butter']",Los Angeles,Bob,2024-12-22
+1000000813,"['Rice', 'Ice Cream']",Los Angeles,Bob,2024-12-21
+1000000814,"['Yogurt', 'Bananas', 'Pasta', 'Jam', 'Honey']",New York,Grace,2024-12-24
+1000000815,"['Cookies', 'Chips']",Chicago,Bob,2024-12-15
+1000000816,"['Oranges', 'Juice', 'Coffee', 'Tea']",New York,Eve,2024-12-05
+1000000817,"['Soda', 'Eggs']",Chicago,Charlie,2024-12-08
+1000000818,"['Bananas', 'Bread', 'Apples', 'Soda', 'Cookies']",New York,Eve,2024-12-05
+1000000819,"['Apples', 'Jam', 'Milk']",Los Angeles,Jack,2024-12-21
+1000000820,"['Juice', 'Rice', 'Butter', 'Jam', 'Tea']",Houston,Frank,2024-12-31
+1000000821,"['Milk', 'Soda', 'Ice Cream']",Houston,Alice,2024-12-15
+1000000822,"['Cookies', 'Chips']",Phoenix,Jack,2024-12-20
+1000000823,"['Pasta', 'Juice', 'Bananas', 'Milk']",Phoenix,Eve,2024-12-08
+1000000824,"['Chips', 'Juice', 'Milk', 'Cereal', 'Ice Cream']",Los Angeles,Bob,2024-12-02
+1000000825,"['Rice', 'Yogurt']",Los Angeles,Diana,2024-12-27
+1000000826,"['Water', 'Ice Cream', 'Eggs', 'Milk', 'Juice']",Los Angeles,Alice,2024-12-10
+1000000827,"['Milk', 'Water', 'Oranges', 'Apples', 'Rice']",Phoenix,Bob,2024-12-24
+1000000828,"['Chips', 'Coffee', 'Bananas', 'Cereal']",Houston,Jack,2024-12-29
+1000000829,"['Ice Cream', 'Yogurt']",Los Angeles,Charlie,2024-12-30
+1000000830,"['Oranges', 'Juice', 'Soda', 'Yogurt', 'Coffee']",Los Angeles,Hank,2024-12-08
+1000000831,"['Soda', 'Ice Cream']",Phoenix,Jack,2024-12-28
+1000000832,"['Oranges', 'Bread']",Phoenix,Frank,2024-12-21
+1000000833,"['Rice', 'Cheese', 'Water']",New York,Ivy,2024-12-31
+1000000834,"['Rice', 'Cookies', 'Soda', 'Juice']",Phoenix,Ivy,2024-12-08
+1000000835,"['Pasta', 'Jam']",New York,Frank,2024-12-31
+1000000836,"['Pasta', 'Juice', 'Soda']",Houston,Jack,2024-12-01
+1000000837,"['Rice', 'Cheese', 'Jam', 'Honey']",Houston,Ivy,2024-12-10
+1000000838,"['Oranges', 'Soda', 'Juice', 'Yogurt', 'Apples']",Chicago,Jack,2024-12-23
+1000000839,"['Tea', 'Water', 'Pasta', 'Cheese', 'Honey']",Houston,Eve,2024-12-17
+1000000840,"['Honey', 'Rice', 'Milk']",Chicago,Grace,2024-12-17
+1000000841,"['Rice', 'Tea']",Los Angeles,Diana,2024-12-25
+1000000842,"['Jam', 'Cereal', 'Eggs']",Phoenix,Bob,2024-12-18
+1000000843,"['Oranges', 'Soda', 'Tea', 'Water', 'Eggs']",Houston,Alice,2024-12-08
+1000000844,"['Rice', 'Honey', 'Cheese', 'Butter', 'Coffee']",New York,Frank,2024-12-16
+1000000845,"['Water', 'Juice']",New York,Bob,2024-12-17
+1000000846,"['Cereal', 'Ice Cream']",Chicago,Bob,2024-12-29
+1000000847,"['Coffee', 'Oranges']",Chicago,Grace,2024-12-21
+1000000848,"['Pasta', 'Oranges']",Houston,Hank,2024-12-31
+1000000849,"['Milk', 'Eggs', 'Bananas', 'Cereal', 'Pasta']",Chicago,Hank,2024-12-02
+1000000850,"['Milk', 'Butter', 'Juice', 'Ice Cream']",New York,Grace,2024-12-24
+1000000851,"['Pasta', 'Yogurt']",Los Angeles,Ivy,2024-12-26
+1000000852,"['Jam', 'Honey', 'Butter', 'Oranges', 'Chips']",Los Angeles,Frank,2024-12-31
+1000000853,"['Soda', 'Milk', 'Ice Cream', 'Honey', 'Bananas']",Los Angeles,Hank,2024-12-18
+1000000854,"['Eggs', 'Honey']",Houston,Frank,2024-12-04
+1000000855,"['Cheese', 'Jam', 'Pasta']",Phoenix,Jack,2024-12-01
+1000000856,"['Bananas', 'Tea']",Phoenix,Hank,2024-12-14
+1000000857,"['Chips', 'Rice']",New York,Ivy,2024-12-21
+1000000858,"['Milk', 'Coffee', 'Bananas', 'Ice Cream', 'Yogurt']",Los Angeles,Bob,2024-12-20
+1000000859,"['Apples', 'Bread', 'Soda', 'Cheese']",Houston,Alice,2024-12-23
+1000000860,"['Water', 'Cookies', 'Cereal', 'Ice Cream']",Phoenix,Eve,2024-12-23
+1000000861,"['Pasta', 'Rice', 'Butter', 'Cookies']",Phoenix,Charlie,2024-12-24
+1000000862,"['Jam', 'Milk']",Phoenix,Grace,2024-12-14
+1000000863,"['Oranges', 'Cookies']",Chicago,Bob,2024-12-29
+1000000864,"['Cookies', 'Eggs', 'Ice Cream']",Chicago,Diana,2024-12-28
+1000000865,"['Apples', 'Water', 'Oranges', 'Pasta', 'Juice']",Phoenix,Frank,2024-12-17
+1000000866,"['Chips', 'Apples', 'Tea']",Chicago,Hank,2024-12-28
+1000000867,"['Milk', 'Chips', 'Eggs']",New York,Diana,2024-12-01
+1000000868,"['Jam', 'Apples', 'Rice', 'Bananas']",Phoenix,Bob,2024-12-18
+1000000869,"['Oranges', 'Eggs', 'Cheese']",Houston,Diana,2024-12-29
+1000000870,"['Honey', 'Cheese', 'Juice', 'Coffee']",Los Angeles,Diana,2024-12-10
+1000000871,"['Ice Cream', 'Butter', 'Chips', 'Oranges']",New York,Eve,2024-12-27
+1000000872,"['Rice', 'Soda', 'Butter', 'Cereal']",Phoenix,Frank,2024-12-01
+1000000873,"['Apples', 'Milk', 'Yogurt', 'Soda', 'Honey']",Phoenix,Grace,2024-12-08
+1000000874,"['Yogurt', 'Cheese', 'Coffee']",New York,Alice,2024-12-13
+1000000875,"['Butter', 'Jam']",Chicago,Jack,2024-12-28
+1000000876,"['Oranges', 'Juice', 'Cookies', 'Chips']",New York,Ivy,2024-12-02
+1000000877,"['Yogurt', 'Tea', 'Bananas']",New York,Diana,2024-12-23
+1000000878,"['Yogurt', 'Ice Cream', 'Jam', 'Honey', 'Tea']",Chicago,Ivy,2024-12-03
+1000000879,"['Cereal', 'Tea']",Houston,Charlie,2024-12-16
+1000000880,"['Tea', 'Cereal', 'Water', 'Apples', 'Ice Cream']",Phoenix,Eve,2024-12-24
+1000000881,"['Milk', 'Cheese', 'Butter', 'Rice']",Los Angeles,Alice,2024-12-13
+1000000882,"['Butter', 'Oranges', 'Cereal', 'Pasta', 'Cheese']",Los Angeles,Bob,2024-12-19
+1000000883,"['Water', 'Juice', 'Butter']",Los Angeles,Jack,2024-12-10
+1000000884,"['Pasta', 'Honey', 'Cookies']",Los Angeles,Grace,2024-12-21
+1000000885,"['Jam', 'Water', 'Milk']",Houston,Bob,2024-12-02
+1000000886,"['Apples', 'Chips', 'Coffee']",Phoenix,Ivy,2024-12-21
+1000000887,"['Soda', 'Coffee', 'Milk', 'Water']",New York,Charlie,2024-12-22
+1000000888,"['Milk', 'Soda']",Los Angeles,Diana,2024-12-17
+1000000889,"['Eggs', 'Chips', 'Rice']",Phoenix,Charlie,2024-12-07
+1000000890,"['Juice', 'Rice', 'Tea']",Houston,Alice,2024-12-17
+1000000891,"['Jam', 'Bread', 'Cheese', 'Cookies']",Chicago,Alice,2024-12-19
+1000000892,"['Juice', 'Cookies']",Phoenix,Bob,2024-12-05
+1000000893,"['Honey', 'Bread']",Los Angeles,Diana,2024-12-25
+1000000894,"['Pasta', 'Cheese', 'Water', 'Cookies']",Chicago,Frank,2024-12-12
+1000000895,"['Oranges', 'Eggs']",Houston,Bob,2024-12-28
+1000000896,"['Apples', 'Pasta', 'Ice Cream', 'Juice', 'Yogurt']",Houston,Ivy,2024-12-07
+1000000897,"['Pasta', 'Cheese']",Los Angeles,Hank,2024-12-13
+1000000898,"['Honey', 'Water', 'Juice', 'Cookies', 'Coffee']",Los Angeles,Ivy,2024-12-17
+1000000899,"['Jam', 'Juice', 'Water']",Houston,Bob,2024-12-17
+1000000900,"['Chips', 'Water', 'Apples', 'Soda', 'Pasta']",Chicago,Frank,2024-12-15
+1000000901,"['Jam', 'Bread', 'Tea']",Phoenix,Hank,2024-12-01
+1000000902,"['Eggs', 'Chips', 'Pasta', 'Tea', 'Oranges']",New York,Alice,2024-12-12
+1000000903,"['Eggs', 'Juice', 'Cheese']",Chicago,Eve,2024-12-05
+1000000904,"['Chips', 'Coffee']",Los Angeles,Ivy,2024-12-22
+1000000905,"['Bread', 'Honey', 'Chips']",Chicago,Hank,2024-12-03
+1000000906,"['Cereal', 'Oranges', 'Tea']",Los Angeles,Alice,2024-12-09
+1000000907,"['Ice Cream', 'Coffee', 'Soda', 'Bananas']",Phoenix,Diana,2024-12-16
+1000000908,"['Rice', 'Chips', 'Soda', 'Cheese']",Phoenix,Hank,2024-12-27
+1000000909,"['Juice', 'Cheese', 'Chips', 'Yogurt', 'Tea']",Los Angeles,Jack,2024-12-15
+1000000910,"['Apples', 'Soda', 'Cheese', 'Ice Cream', 'Juice']",Los Angeles,Grace,2024-12-11
+1000000911,"['Juice', 'Jam', 'Bread', 'Bananas', 'Pasta']",Los Angeles,Charlie,2024-12-19
+1000000912,"['Water', 'Soda', 'Tea', 'Ice Cream']",New York,Alice,2024-12-26
+1000000913,"['Yogurt', 'Pasta']",Chicago,Eve,2024-12-21
+1000000914,"['Honey', 'Rice', 'Cheese', 'Eggs']",Houston,Hank,2024-12-18
+1000000915,"['Cookies', 'Cheese', 'Oranges']",Chicago,Jack,2024-12-27
+1000000916,"['Soda', 'Juice', 'Eggs']",Los Angeles,Frank,2024-12-21
+1000000917,"['Rice', 'Chips']",New York,Diana,2024-12-13
+1000000918,"['Tea', 'Cheese', 'Cookies', 'Rice', 'Butter']",Los Angeles,Frank,2024-12-09
+1000000919,"['Coffee', 'Eggs', 'Cereal']",Los Angeles,Charlie,2024-12-02
+1000000920,"['Tea', 'Pasta', 'Yogurt', 'Cereal']",Houston,Diana,2024-12-07
+1000000921,"['Soda', 'Juice', 'Cookies', 'Eggs', 'Milk']",Houston,Bob,2024-12-24
+1000000922,"['Cereal', 'Milk', 'Pasta', 'Cheese']",Los Angeles,Charlie,2024-12-14
+1000000923,"['Eggs', 'Soda', 'Juice', 'Pasta', 'Ice Cream']",Los Angeles,Bob,2024-12-25
+1000000924,"['Chips', 'Cheese', 'Bread', 'Yogurt']",Phoenix,Ivy,2024-12-20
+1000000925,"['Tea', 'Coffee', 'Jam', 'Cookies', 'Oranges']",New York,Bob,2024-12-14
+1000000926,"['Pasta', 'Rice']",New York,Jack,2024-12-19
+1000000927,"['Water', 'Cookies', 'Ice Cream', 'Coffee', 'Honey']",Chicago,Charlie,2024-12-10
+1000000928,"['Coffee', 'Butter', 'Yogurt', 'Cookies', 'Cheese']",Phoenix,Alice,2024-12-12
+1000000929,"['Eggs', 'Juice']",Houston,Diana,2024-12-31
+1000000930,"['Cereal', 'Pasta']",Chicago,Frank,2024-12-05
+1000000931,"['Ice Cream', 'Rice', 'Cereal', 'Milk']",Houston,Bob,2024-12-14
+1000000932,"['Chips', 'Juice', 'Bread', 'Yogurt']",Los Angeles,Ivy,2024-12-06
+1000000933,"['Rice', 'Pasta']",Houston,Bob,2024-12-01
+1000000934,"['Yogurt', 'Oranges', 'Ice Cream', 'Water', 'Cereal']",New York,Eve,2024-12-03
+1000000935,"['Ice Cream', 'Honey', 'Bananas', 'Bread']",Los Angeles,Grace,2024-12-01
+1000000936,"['Butter', 'Bananas', 'Chips', 'Apples']",Los Angeles,Bob,2024-12-15
+1000000937,"['Jam', 'Ice Cream', 'Honey', 'Cereal', 'Water']",Houston,Grace,2024-12-09
+1000000938,"['Bread', 'Chips', 'Cereal']",Los Angeles,Frank,2024-12-21
+1000000939,"['Honey', 'Yogurt', 'Butter', 'Chips', 'Rice']",New York,Grace,2024-12-02
+1000000940,"['Cereal', 'Milk', 'Butter']",New York,Frank,2024-12-12
+1000000941,"['Soda', 'Milk', 'Honey', 'Cereal']",Chicago,Bob,2024-12-07
+1000000942,"['Yogurt', 'Eggs', 'Milk']",Houston,Eve,2024-12-23
+1000000943,"['Pasta', 'Rice', 'Tea', 'Apples']",Chicago,Charlie,2024-12-26
+1000000944,"['Bread', 'Butter', 'Pasta', 'Cheese', 'Apples']",Phoenix,Bob,2024-12-20
+1000000945,"['Oranges', 'Jam']",Phoenix,Charlie,2024-12-13
+1000000946,"['Coffee', 'Water']",New York,Jack,2024-12-07
+1000000947,"['Cheese', 'Tea', 'Yogurt', 'Butter', 'Cereal']",Los Angeles,Eve,2024-12-14
+1000000948,"['Cereal', 'Soda']",Houston,Jack,2024-12-28
+1000000949,"['Honey', 'Bananas', 'Ice Cream']",Phoenix,Frank,2024-12-25
+1000000950,"['Jam', 'Bread']",Houston,Charlie,2024-12-14
+1000000951,"['Eggs', 'Cheese', 'Apples', 'Pasta', 'Bananas']",Los Angeles,Grace,2024-12-23
+1000000952,"['Cookies', 'Eggs']",Phoenix,Diana,2024-12-06
+1000000953,"['Bread', 'Jam']",Los Angeles,Frank,2024-12-16
+1000000954,"['Rice', 'Apples']",Phoenix,Bob,2024-12-06
+1000000955,"['Eggs', 'Jam', 'Rice', 'Honey']",Houston,Frank,2024-12-27
+1000000956,"['Milk', 'Pasta']",Los Angeles,Hank,2024-12-25
+1000000957,"['Tea', 'Yogurt', 'Soda', 'Water']",Chicago,Diana,2024-12-21
+1000000958,"['Cheese', 'Apples', 'Yogurt', 'Rice', 'Water']",Los Angeles,Grace,2024-12-06
+1000000959,"['Cheese', 'Eggs']",New York,Ivy,2024-12-20
+1000000960,"['Tea', 'Bananas']",New York,Charlie,2024-12-18
+1000000961,"['Jam', 'Bananas', 'Juice', 'Eggs']",Houston,Ivy,2024-12-26
+1000000962,"['Rice', 'Coffee', 'Pasta', 'Butter']",Phoenix,Ivy,2024-12-12
+1000000963,"['Butter', 'Cheese', 'Coffee', 'Bread']",Chicago,Frank,2024-12-18
+1000000964,"['Cheese', 'Rice', 'Coffee', 'Water', 'Soda']",Phoenix,Grace,2024-12-01
+1000000965,"['Honey', 'Tea', 'Bread', 'Water']",Los Angeles,Eve,2024-12-23
+1000000966,"['Tea', 'Rice', 'Bread', 'Milk']",Houston,Diana,2024-12-20
+1000000967,"['Butter', 'Apples']",Houston,Diana,2024-12-06
+1000000968,"['Coffee', 'Honey', 'Butter', 'Juice']",Phoenix,Grace,2024-12-03
+1000000969,"['Rice', 'Oranges']",Chicago,Ivy,2024-12-07
+1000000970,"['Cookies', 'Yogurt']",Chicago,Jack,2024-12-06
+1000000971,"['Water', 'Honey', 'Rice', 'Tea', 'Milk']",Los Angeles,Jack,2024-12-04
+1000000972,"['Soda', 'Rice', 'Tea', 'Yogurt']",Chicago,Jack,2024-12-02
+1000000973,"['Water', 'Eggs', 'Apples']",New York,Grace,2024-12-31
+1000000974,"['Jam', 'Coffee', 'Oranges', 'Eggs', 'Bread']",Phoenix,Hank,2024-12-14
+1000000975,"['Cereal', 'Butter', 'Bread', 'Yogurt', 'Ice Cream']",Houston,Frank,2024-12-31
+1000000976,"['Cheese', 'Bread', 'Ice Cream', 'Rice', 'Oranges']",Chicago,Bob,2024-12-22
+1000000977,"['Cheese', 'Apples', 'Yogurt', 'Eggs', 'Chips']",Houston,Eve,2024-12-15
+1000000978,"['Water', 'Apples', 'Oranges', 'Soda', 'Bananas']",Chicago,Jack,2024-12-31
+1000000979,"['Milk', 'Honey', 'Bread', 'Coffee', 'Cereal']",Houston,Bob,2024-12-09
+1000000980,"['Soda', 'Honey']",Phoenix,Bob,2024-12-28
+1000000981,"['Soda', 'Bread', 'Chips', 'Pasta']",New York,Grace,2024-12-31
+1000000982,"['Tea', 'Yogurt']",Houston,Bob,2024-12-31
+1000000983,"['Ice Cream', 'Yogurt', 'Water', 'Oranges', 'Cookies']",Los Angeles,Jack,2024-12-05
+1000000984,"['Honey', 'Water', 'Apples', 'Soda', 'Tea']",Houston,Bob,2024-12-05
+1000000985,"['Oranges', 'Juice']",Chicago,Eve,2024-12-18
+1000000986,"['Eggs', 'Butter', 'Coffee', 'Oranges']",Chicago,Jack,2024-12-12
+1000000987,"['Butter', 'Coffee', 'Pasta']",New York,Hank,2024-12-26
+1000000988,"['Pasta', 'Soda', 'Ice Cream', 'Rice', 'Cheese']",Houston,Hank,2024-12-28
+1000000989,"['Rice', 'Butter', 'Juice', 'Chips']",Chicago,Hank,2024-12-27
+1000000990,"['Pasta', 'Cookies', 'Juice', 'Ice Cream', 'Butter']",Houston,Grace,2024-12-20
+1000000991,"['Juice', 'Ice Cream']",Los Angeles,Jack,2024-12-11
+1000000992,"['Butter', 'Juice', 'Soda', 'Coffee', 'Yogurt']",Houston,Charlie,2024-12-03
+1000000993,"['Pasta', 'Butter', 'Honey', 'Bananas', 'Cheese']",Los Angeles,Alice,2024-12-25
+1000000994,"['Eggs', 'Oranges', 'Yogurt', 'Water', 'Cookies']",New York,Frank,2024-12-02
+1000000995,"['Water', 'Soda', 'Ice Cream', 'Cereal']",Chicago,Charlie,2024-12-28
+1000000996,"['Rice', 'Water']",Phoenix,Frank,2024-12-04
+1000000997,"['Ice Cream', 'Yogurt', 'Cookies', 'Eggs']",Los Angeles,Hank,2024-12-03
+1000000998,"['Oranges', 'Jam', 'Chips', 'Milk']",Houston,Jack,2024-12-02
+1000000999,"['Juice', 'Chips', 'Water']",New York,Charlie,2024-12-30
